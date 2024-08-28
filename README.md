@@ -1,9 +1,11 @@
 
 # GameVault
 
-Welcome to The Pizza Project. Our aim is to provide the local and surrounding communities of Bristol with the freshest and highest quality pizza imaginable, outside of Italy or the pizza hotspots of the USA. We craft out pizza sauce and dough every morning, then load up our mobile pizza truck and head out on the open road where we top and cook our pizzas to order on site. Wether that is at your front door, wedding venue, high street or charity event. If we can drive there, we can cook there. Our pizzas are cooked in a wood fired pizza oven in the back of our pizza truck to ensure that authentic pizza experience.
+Welcome to GameVault. Our aim is to provide a quality website and reliable shopping service for not only gamers but those shopping for their gaming obsessed loved ones. GameVault offers a variety of Games, Consoles and Gaming Accessories.
+
+Visitors to the GameVault website can search, filter products or can jump straight to their console preference and category by using the navigation bar.and  and surrounding communities of Bristol with the freshest and highest quality pizza imaginable, outside of Italy or the pizza hotspots of the USA. We craft out pizza sauce and dough every morning, then load up our mobile pizza truck and head out on the open road where we top and cook our pizzas to order on site. Wether that is at your front door, wedding venue, high street or charity event. If we can drive there, we can cook there. Our pizzas are cooked in a wood fired pizza oven in the back of our pizza truck to ensure that authentic pizza experience.
  
-The live link to The Pizza Project website can be found here: *website link here*
+The live link to the GameVault website can be found here: *website link here*
 
 - *Home page screen shot here*
 
@@ -15,21 +17,19 @@ The Contents of this site include,
 
 - A base html template, that handles the navbar and footer across all pages. Allowing for the ability to write once and reuse across the site by using block tags.
 
-- The Home page, featuring our masthead image and brand name, with a short introduction to The Pizza Project. It was originally intended to host the booking form also, but this was eventually moved to the profiles page.
+- The Home page, featuring our masthead image and the GameVault brand name, with site wide navbar and search box, that directs site visitors to the products they are searching for.
 
-- The Menu page features a custom WePik image used for the menu itself. Designed to be straight to the point, but with scope to possibly improve upon this page in a future release by adding menu items, prices and nutritional information into a database and then displayed to allow for better customisation by the site owner.
+- Navbar, 
 
-- Enquiries is a basic page found on most sites with similar buisness models. Featuring some images and brief snippets of text expanding some of what The Pizza Project can offer their customers, not mentioned in the Home page.
+- Search box, 
 
-- Profile page, is intended for the Business Owner to view the collective of all the bookings made.
+- Profile page, is intended for the customer to view their orders
 
-- User Bookings was intended to allow logged in users to make a booking, show those booking/s and also edit and delete them if required.
-
-- Reigster, a page that allows users to register an account for The Pizza Project.
+- Reigster, a page that allows users to register an account for the GameVault website.
 
 - Log In, a page that sits along side Register in the navbar that allows users to log in.
 
-- Log Out, This page allows users to log out. It is hidden on the navbar to those that have yet to register/log in to The Pizza Project Website, then once signed in replaces the Register and Log In spots within the navbar.
+- Log Out, This page allows users to log out. It is hidden on the navbar to those that have yet to register/log in to the GameVault website, then once signed in replaces the Register and Log In spots within the navbar.
 
 
 ## User Experience
@@ -57,9 +57,8 @@ Making use of Bootstrap 5.0, I chose to use the Grayscale bootstrap theme from S
 
 ## Features
 
-- A navbar that provided direction to all the pages across the site. Home, Menu, Enquiries, Profile, My Booking, Register, Log In and Log Out.
+- A navbar that provides direction to customers to all the pages across the site. Home, Menu, Enquiries, Profile, My Booking, Register, Log In and Log Out.
 
-- A planned booking form to capture user information for bookings, with CRUD functionality.
 
 ## Database Design
 
