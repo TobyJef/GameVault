@@ -1,15 +1,15 @@
 
 # GameVault
 
-Welcome to GameVault. Our aim is to provide a quality website and reliable shopping service for not only gamers but those shopping for their gaming obsessed loved ones. GameVault offers a variety of Games, Consoles and Gaming Accessories.
+Welcome to GameVault. Our aim is to provide a quality website and reliable shopping service for not only gamers but those shopping for their gaming obsessed friends and loved ones. GameVault offers a variety of Games, Consoles and Gaming Accessories.
 
-Visitors to the GameVault website can search, filter products or can jump straight to their console preference and category by using the navigation bar.and  and surrounding communities of Bristol with the freshest and highest quality pizza imaginable, outside of Italy or the pizza hotspots of the USA. We craft out pizza sauce and dough every morning, then load up our mobile pizza truck and head out on the open road where we top and cook our pizzas to order on site. Wether that is at your front door, wedding venue, high street or charity event. If we can drive there, we can cook there. Our pizzas are cooked in a wood fired pizza oven in the back of our pizza truck to ensure that authentic pizza experience.
- 
+Visitors to the GameVault website can search and browse our range of products. Or for those that know what they want, filter their product searches or jump straight to their preferred categories from the navbar. The navbar main categories are based on our supported console brand i.e Playstation, Nintendo etc, our shoppers are looking to purchase for, then further expanded into sub categories including consoles, game genres and accessories. Shoppers can add their purchases to the basket which relays a live cost total so they can keep track of their spending before checking out and purchasing their desired items. GameVault also provides our site browsers and customers the opportunity to sign up to our mailing list so they can recieve future communications from us regarding new game and console releases and sale events.
+
 The live link to the GameVault website can be found here: *website link here*
 
 - *Home page screen shot here*
 
-This project, based on a fictitous mobile pizza restaurant of my own deisgn but inspired by a company with a similar business model from the local area of my home town in Bristol. Is designed to allow customers to create and log into an account, and to book The Pizza Project mobile truck on a selected date, and have the option to leave a comment on their booking. As well as for the business owner to log into the website as the super user, to manage their bookings and menu.
+This project, is for a fictitous video game business to consumer e-commerce site of my own design. It is designed to allow customers to browse a range of video game related stock, add their desired purchases to a basket and later check out and purchase the chosen products. Create and log into a customer account, and if they so desire sign up to the GameVault sites mailing list. It will also allow for the business owner to log into the website as the super user, to manage their stock inventory, descriptions and images.
 
 ## Contents
 
@@ -36,7 +36,7 @@ The Contents of this site include,
 
 ### Strategy Plane
 
-The primary site goal of GameVault, is to serve as a business to consumer website for a video game retailer. GameVault offers its customers a selection of video games and gaming accessories across all modern gaming consoles. Product inventory is categorised by console, and customers can filter products further by price and rating. Products images are displayed to show customers  of similar mobile pizza , a menu and a booking form that could be submitted by users following registering/logging into the website, where they could also edit and delete their booking providing the were still logged in.
+The primary site goal of GameVault, is to serve as a business to consumer website for a video game retailer. GameVault offers its customers a selection of video games and gaming accessories across all modern gaming consoles. Product inventory is categorised by console and sub categories such as genre. Customers can use the search bar to look for specific items and filter products searches further by price and rating. Products images are displayed to help customers, who may not be confident when shopping for gaming related products to make the correct purchase for a friend or loved one. A basket with a live total is displayed to show the current total to help ensure customers towards sensible spending. Something that can be helpful for those who struggle with impulsive online purchases. 
 
 ### Scope Plane
 
@@ -52,7 +52,7 @@ The primary site goal of GameVault, is to serve as a business to consumer websit
 
 ## Surface Plane
 
-Making use of Bootstrap 5.0, I chose to use the Grayscale bootstrap theme from StartBootstrap.com. This decision was made to help reduce the required amount of custom css and javascript that would normally be required.
+Making use of Bootstrap 5.0, I chose to use the bootstrap theme from StartBootstrap.com. This decision was made to help reduce the required amount of custom css and javascript that would normally be required.
 
 
 ## Features
