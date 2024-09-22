@@ -75,6 +75,7 @@ The plan for the data within the database was to have two seperate views, one fo
 - Postgre ElephantSQL to handle the inventory database
 - Allauth for new user account registration
 - Balsamiq wireframes
+- [Json Formatter](https://jsonformatter.org/)
 
 
 
@@ -89,7 +90,8 @@ Site deployment was carried out via Heroku.
 
 ## Credit
 
-- Proudct images have been taken from Amazon.co.uk, the images used are for educational purposes only.
+- Product images used in this project have been collected from [Amazon.co.uk](www.amazon.co.uk), the images used are for educational purposes only.
+- Product prices and ratings have been collected from [Amazon](www.amazon.co.uk) and [Nintendo](www.store.nintendo.co.uk).
 
 - Tutor Assistance, 
 
