@@ -10,7 +10,7 @@
         "storage": "1TB",
         "colour": "black",
         "price": 459.99,
-        "category": 7,
+        "category": 6,
         "rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/51-kkNP6OcL._AC_SL1500_.jpg",
         "image": "xbox_series_x.jpg"
@@ -26,7 +26,7 @@
         "storage": "512GB",
         "colour": "white",
         "price": 249.99,
-        "category": 7,
+        "category": 6,
         "rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/61D3AuT--xL._AC_SL1500_.jpg",
         "image": "xbox_series_s_white.jpg"
@@ -42,7 +42,7 @@
         "storage": "1TB",
         "colour": "black",
         "price": 299.99,
-        "category": 7,
+        "category": 6,
         "rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/51-kkNP6OcL._AC_SL1500_.jpg",
         "image": "xbox_series_s_black.jpg"
@@ -58,7 +58,7 @@
         "storage": "1TB",
         "colour": "white",
         "price": 479.99,
-        "category": 7,
+        "category": 5,
         "rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/71PMC4DWWFL._AC_SL1500_.jpg",
         "image": "ps_console_standard.jpg"
@@ -74,7 +74,7 @@
         "storage": "1TB",
         "colour": "white",
         "price": 389.99,
-        "category": 7,
+        "category": 5,
         "rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/51-kkNP6OcL._AC_SL1500_.jpg",
         "image": "ps_console_slim.jpg"
@@ -90,7 +90,7 @@
         "storage": "1TB",
         "colour": "white",        
         "price": 385.99,
-        "category": 7,
+        "category": 5,
         "rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/61WiphT2PlL._AC_SL1500_.jpg",
         "image": "ps_console_digital_slim.jpg"
@@ -106,7 +106,7 @@
         "storage": "1TB",
         "colour": "white",
         "price": 549.99,
-        "category": 7,
+        "category": 5,
         "rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/61rH9XhBFHL._AC_SL1001_.jpg",
         "image": "ps_console_bundle.jpg"
@@ -122,7 +122,7 @@
         "storage": "32GB",
         "colour": "neon red/neon blue",
         "price": 259.99,
-        "category": 7,
+        "category": 4,
         "rating": 4,
         "image_url": "https://m.media-amazon.com/images/I/71rAhcNgSTL._AC_SL1500_.jpg",
         "image": "nintendo_switch_console.jpg"
@@ -138,7 +138,7 @@
         "storage": "64GB",
         "colour": "white",
         "price": 299.99,
-        "category": 7,
+        "category": 4,
         "rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/61LRAVRqyCL._AC_SL1500_.jpg",
         "image": "nintendo_switch_oled_white.jpg"
@@ -154,7 +154,7 @@
         "storage": "64GB",
         "colour": "neon red/neon blue",
         "price": 299.99,
-        "category": 7,
+        "category": 4,
         "rating": 4.7,
         "image_url": "https://image.smythstoys.com/thumbnail/desktop/202450.webp",
         "image": "nintendo_switch_oled.jpg"
@@ -170,7 +170,7 @@
         "storage": "64GB",
         "colour": "pokemon scarlet/violet",
         "price": 349.99,
-        "category": 7,
+        "category": 4,
         "rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/81xxEVrQ7tL._AC_SL1500_.jpg",
         "image": "nintendo_switch_oled_pokemon.jpg"
@@ -186,7 +186,7 @@
         "storage": "32GB",
         "colour": "blue",
         "price": 199.99,
-        "category": 7,
+        "category": 4,
         "rating": 3.5,
         "image_url": "https://m.media-amazon.com/images/I/71SAila1MXL._AC_SL1500_.jpg",
         "image": "nintendo_switch_lite_blue.jpg"
@@ -202,7 +202,7 @@
         "storage": "32GB",
         "colour": "coral",
         "price": 199.99,
-        "category": 7,
+        "category": 4,
         "rating": 3.7,
         "image_url": "https://m.media-amazon.com/images/I/71Sedv0KNPL._AC_SL1500_.jpg",
         "image": "nintendo_switch_lite_coral.jpg"
@@ -218,7 +218,7 @@
         "storage": "32GB",
         "colour": "grey",
         "price": 199.99,
-        "category": 7,
+        "category": 4,
         "rating": 4.2,
         "image_url": "https://m.media-amazon.com/images/I/71wHzB6GSGL._AC_SL1500_.jpg",
         "image": "nintendo_switch_lite_grey.jpg"
@@ -234,7 +234,7 @@
         "storage": "32GB",
         "colour": "turqoise",
         "price": 199.99,
-        "category": 7,
+        "category": 4,
         "rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/71NVCf39uyL._AC_SL1500_.jpg",
         "image": "nintendo_switch_lite_turqoise.jpg"
@@ -250,7 +250,7 @@
         "storage": "32GB",
         "colour": "yellow",
         "price": 199.99,
-        "category": 7,
+        "category": 4,
         "rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/51-kkNP6OcL._AC_SL1500_.jpg",
         "image": "nintendo_switch_lite_yellow.jpg"
@@ -266,7 +266,7 @@
         "storage": "32GB",
         "colour": "hyrule gold",
         "price": 209.99,
-        "category": 7,
+        "category": 4,
         "rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/51uSBSWgaYL._AC_SL1080_.jpg",
         "image": "nintendo_switch_lite_gold.jpg"
@@ -282,7 +282,7 @@
         "storage": "32GB",
         "colour": "pokemon sword/shield",
         "price": 209.99,
-        "category": 7,
+        "category": 4,
         "rating": 4.5,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
         "image": "nintendo_switch_lite_pokemon.jpg"
