@@ -1,0 +1,291 @@
+
+[
+    {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "xbxsxbla",
+        "name": "Xbox Series X 1TB Console",
+        "description": "The Xbox Series X is the fastest, most powerful Xbox gaming console. Experience 1,000s of titles from 4 generations of gaming on the Series X – where games look and play better than ever.",
+        "storage": "1TB",
+        "colour": "black",
+        "price": 459.99,
+        "category": 7,
+        "rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/51-kkNP6OcL._AC_SL1500_.jpg",
+        "image": "xbox_series_x.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "xbxsswhi",
+        "name": "Xbox Series S 512GB Console",
+        "description": "The Xbox Series S console packs next generation speed and power into the smallest, sleekest Xbox console. Play thousands of digital games across 4 generations on an all-digital console created for disc-free gaming. *Does not include a Disc Drive. Digital Games only.",
+        "storage": "512GB",
+        "colour": "white",
+        "price": 249.99,
+        "category": 7,
+        "rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/61D3AuT--xL._AC_SL1500_.jpg",
+        "image": "xbox_series_s_white.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "xbxssbla",
+        "name": "Xbox Series S 1TB Console",
+        "description": "Experience next-gen speed and performance with Xbox Series S in Carbon Black, featuring a 1 TB SSD. Make the most of every gaming minute with Quick Resume, lightning-fast load times, and gameplay of up to 120 FPS – all powered by Xbox Velocity Architecture. *Does not include a Disc Drive. Digital Games only.",
+        "storage": "1TB",
+        "colour": "black",
+        "price": 299.99,
+        "category": 7,
+        "rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/51-kkNP6OcL._AC_SL1500_.jpg",
+        "image": "xbox_series_s_black.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "pys5con",
+        "name": "Playstation 5 Standard Console",
+        "description": "The PS5 console unleashes new gaming possibilities that you never anticipated. Experience lightning-fast loading with an ultra-high-speed SSD, deeper immersion with support for haptic feedback, adaptive triggers and 3D Audio, and an all-new generation of incredible PlayStation games.",
+        "storage": "1TB",
+        "colour": "white",
+        "price": 479.99,
+        "category": 7,
+        "rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/71PMC4DWWFL._AC_SL1500_.jpg",
+        "image": "ps_console_standard.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "pys5conslim",
+        "name": "Playstation 5 Console Slim",
+        "description": "The PS5 console unleashes new gaming possibilities that you never anticipated. With PS5, players get powerful gaming technology packed inside a sleek and compact console design.",
+        "storage": "1TB",
+        "colour": "white",
+        "price": 389.99,
+        "category": 7,
+        "rating": 4.6,
+        "image_url": "https://m.media-amazon.com/images/I/51-kkNP6OcL._AC_SL1500_.jpg",
+        "image": "ps_console_slim.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "pys5digslim",
+        "name": "Playstation 5 Digital Console Slim",
+        "description": "With PS5 Digital Edition, players get powerful gaming technology packed inside a sleek and compact console design. *Does not include a Disc Drive. Digital Games only.",
+        "storage": "1TB",
+        "colour": "white",        
+        "price": 385.99,
+        "category": 7,
+        "rating": 4.6,
+        "image_url": "https://m.media-amazon.com/images/I/61WiphT2PlL._AC_SL1500_.jpg",
+        "image": "ps_console_digital_slim.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "pys5con",
+        "name": "Playstation 5 Console and God of War Ragnarok Bundle",
+        "description": "The PS5 console unleashes new gaming possibilities that you never anticipated. Experience an all-new generation of incredible PlayStation games. Console bundle comes with a digital copy of God of War Ragnarok.",
+        "storage": "1TB",
+        "colour": "white",
+        "price": 549.99,
+        "category": 7,
+        "rating": 4.6,
+        "image_url": "https://m.media-amazon.com/images/I/61rH9XhBFHL._AC_SL1001_.jpg",
+        "image": "ps_console_bundle.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "ninswi",
+        "name": "Nintendo Switch Console",
+        "description": "The Nintendo Switch brings you 3 ways to play: docked, tabletop and handheld. This console revolutionises gaming, easily switching from home console to handheld system. Experience HD gaming on your TV, flip to tabletop mode to share the screen or attach the Joy-Con to take your favourite games on the go.",
+        "storage": "32GB",
+        "colour": "neon red/neon blue",
+        "price": 259.99,
+        "category": 7,
+        "rating": 4,
+        "image_url": "https://m.media-amazon.com/images/I/71rAhcNgSTL._AC_SL1500_.jpg",
+        "image": "nintendo_switch_console.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "ninswiowhite",
+        "name": "Nintendo Switch OLED Console - White",
+        "description": "Meet the newest member of the Nintendo family, enhanced with a vibrant OLED screen, more stable online play, 64GB internal storage and new speakers. Nintendo Switch OLED transforms to suit your lifestyle, so you can play the games you love wherever you go. Console comes with the new oled exclusive white Joy Cons.",
+        "storage": "64GB",
+        "colour": "white",
+        "price": 299.99,
+        "category": 7,
+        "rating": 4.7,
+        "image_url": "https://m.media-amazon.com/images/I/61LRAVRqyCL._AC_SL1500_.jpg",
+        "image": "nintendo_switch_oled_white.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "ninswioled",
+        "name": "Nintendo Switch OLED Console - Neon Red/Neon Blue",
+        "description": "Meet the newest member of the Nintendo family, enhanced with a vibrant OLED screen, more stable online play, 64GB internal storage and new speakers. Nintendo Switch OLED transforms to suit your lifestyle, so you can play the games you love wherever you go.",
+        "storage": "64GB",
+        "colour": "neon red/neon blue",
+        "price": 299.99,
+        "category": 7,
+        "rating": 4.7,
+        "image_url": "https://image.smythstoys.com/thumbnail/desktop/202450.webp",
+        "image": "nintendo_switch_oled.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "ninswioledpokemon",
+        "name": "Nintendo Switch OLED Console - Pokemon Scarlet and Violet Limited Edition",
+        "description": "The Nintendo Switch – OLED Model Pokémon Scarlet and Violet Edition console features art inspired by the upcoming Pokémon Scarlet and Pokémon Violet games (sold separately). The Legendary Pokémon Koraidon and Miraidon are featured on the glossy front side of the white system’s dock, and a design inspired by the series’ iconic Poké Ball is featured on the back.",
+        "storage": "64GB",
+        "colour": "pokemon scarlet/violet",
+        "price": 349.99,
+        "category": 7,
+        "rating": 4.7,
+        "image_url": "https://m.media-amazon.com/images/I/81xxEVrQ7tL._AC_SL1500_.jpg",
+        "image": "nintendo_switch_oled_pokemon.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "ninswiliteblue",
+        "name": "Nintendo Switch Lite Console - Blue",
+        "description": "The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
+        "storage": "32GB",
+        "colour": "blue",
+        "price": 199.99,
+        "category": 7,
+        "rating": 3.5,
+        "image_url": "https://m.media-amazon.com/images/I/71SAila1MXL._AC_SL1500_.jpg",
+        "image": "nintendo_switch_lite_blue.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "xbxcon1tbbla",
+        "name": "Nintendo Switch Lite Console - Coral",
+        "description": "The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
+        "storage": "32GB",
+        "colour": "coral",
+        "price": 199.99,
+        "category": 7,
+        "rating": 3.7,
+        "image_url": "https://m.media-amazon.com/images/I/71Sedv0KNPL._AC_SL1500_.jpg",
+        "image": "nintendo_switch_lite_coral.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "xbxcon1tbbla",
+        "name": "Nintendo Switch Lite Console - Grey",
+        "description": "The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
+        "storage": "32GB",
+        "colour": "grey",
+        "price": 199.99,
+        "category": 7,
+        "rating": 4.2,
+        "image_url": "https://m.media-amazon.com/images/I/71wHzB6GSGL._AC_SL1500_.jpg",
+        "image": "nintendo_switch_lite_grey.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "xbxcon1tbbla",
+        "name": "Nintendo Switch Lite Console - Turqoise",
+        "description": "The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
+        "storage": "32GB",
+        "colour": "turqoise",
+        "price": 199.99,
+        "category": 7,
+        "rating": 4.7,
+        "image_url": "https://m.media-amazon.com/images/I/71NVCf39uyL._AC_SL1500_.jpg",
+        "image": "nintendo_switch_lite_turqoise.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "xbxcon1tbbla",
+        "name": "Nintendo Switch Lite Console - Yellow",
+        "description": "The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
+        "storage": "32GB",
+        "colour": "yellow",
+        "price": 199.99,
+        "category": 7,
+        "rating": 4.7,
+        "image_url": "https://m.media-amazon.com/images/I/51-kkNP6OcL._AC_SL1500_.jpg",
+        "image": "nintendo_switch_lite_yellow.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "xbxcon1tbbla",
+        "name": "Nintendo Switch Lite Console - Hyrule Edition",
+        "description": "Limited Hyrule Edition Nintendo Switch Lite Console. The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
+        "storage": "32GB",
+        "colour": "hyrule gold",
+        "price": 209.99,
+        "category": 7,
+        "rating": 4.7,
+        "image_url": "https://m.media-amazon.com/images/I/51uSBSWgaYL._AC_SL1080_.jpg",
+        "image": "nintendo_switch_lite_gold.jpg"
+    }
+},
+{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "xbxcon1tbbla",
+        "name": "Nintendo Switch Lite Console - Zacian and Zamazenta Editon",
+        "description": "Limited Pokemon Sword and Pokemon Shield, Zacian and Zamazenta edition. The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
+        "storage": "32GB",
+        "colour": "pokemon sword/shield",
+        "price": 209.99,
+        "category": 7,
+        "rating": 4.5,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "nintendo_switch_lite_pokemon.jpg"
+    }
+}
+]

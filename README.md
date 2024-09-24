@@ -90,8 +90,11 @@ Site deployment was carried out via Heroku.
 
 ## Credit
 
-- Product images used in this project have been collected from [Amazon.co.uk](www.amazon.co.uk), the images used are for educational purposes only.
+- Product images used in this project have been collected from [Amazon.co.uk](www.amazon.co.uk).
 - Product prices and ratings have been collected from [Amazon](www.amazon.co.uk) and [Nintendo](www.store.nintendo.co.uk).
+- Product descriptions used have been collected from [Amazon](www.amazon.co.uk) and [Smyths Toys](https://www.smythstoys.com/uk/en-gb). 
+
+- The product images, pricing, ratings and descriptions used from 3rd party sites have been used for educational purposes only.
 
 - Tutor Assistance, 
 
