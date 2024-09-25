@@ -8,7 +8,9 @@ class ProductAdmin(admin.ModelAdmin):
         'name',
         'category',
         'price',
-        'rating',
+        'players',
+        'age_rating',
+        'star_rating',
         'image',
     )
 
@@ -19,8 +21,6 @@ class CategoryAdmin(admin.ModelAdmin):
         'friendly_name',
         'name',
     )
-
-
 
 
 admin.site.register(Product, ProductAdmin)
