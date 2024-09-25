@@ -17,7 +17,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 2,
     "model": "products.product",
     "fields": {
         "sku": "xbxsswhi",
@@ -33,7 +33,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 3,
     "model": "products.product",
     "fields": {
         "sku": "xbxssbla",
@@ -49,7 +49,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 4,
     "model": "products.product",
     "fields": {
         "sku": "pys5con",
@@ -65,7 +65,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 5,
     "model": "products.product",
     "fields": {
         "sku": "pys5conslim",
@@ -81,7 +81,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 6,
     "model": "products.product",
     "fields": {
         "sku": "pys5digslim",
@@ -97,7 +97,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 7,
     "model": "products.product",
     "fields": {
         "sku": "pys5con",
@@ -113,7 +113,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 8,
     "model": "products.product",
     "fields": {
         "sku": "ninswi",
@@ -129,7 +129,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 9,
     "model": "products.product",
     "fields": {
         "sku": "ninswiowhite",
@@ -145,7 +145,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 10,
     "model": "products.product",
     "fields": {
         "sku": "ninswioled",
@@ -161,7 +161,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 11,
     "model": "products.product",
     "fields": {
         "sku": "ninswioledpokemon",
@@ -177,7 +177,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 12,
     "model": "products.product",
     "fields": {
         "sku": "ninswiliteblue",
@@ -193,7 +193,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 13,
     "model": "products.product",
     "fields": {
         "sku": "xbxcon1tbbla",
@@ -209,7 +209,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 14,
     "model": "products.product",
     "fields": {
         "sku": "xbxcon1tbbla",
@@ -225,7 +225,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 15,
     "model": "products.product",
     "fields": {
         "sku": "xbxcon1tbbla",
@@ -237,11 +237,11 @@
         "category": 4,
         "rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/71NVCf39uyL._AC_SL1500_.jpg",
-        "image": "nintendo_switch_lite_turqoise.jpg"
+        "image": "nintendo_switch_lite_turquoise.jpg"
     }
 },
 {
-    "pk": 1,
+    "pk": 16,
     "model": "products.product",
     "fields": {
         "sku": "xbxcon1tbbla",
@@ -257,7 +257,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 17,
     "model": "products.product",
     "fields": {
         "sku": "xbxcon1tbbla",
@@ -273,7 +273,7 @@
     }
 },
 {
-    "pk": 1,
+    "pk": 18,
     "model": "products.product",
     "fields": {
         "sku": "xbxcon1tbbla",
