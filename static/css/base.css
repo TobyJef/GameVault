@@ -66,7 +66,13 @@ body {
     left: 0;
     position: fixed;
     background: white;
-    z-index: -1
+    z-index: -1;
+}
+
+a.category-badge > span.hover {
+    background: #212529 !important;
+    color: #fff !important;
+
 }
 
 
