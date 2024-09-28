@@ -2,7 +2,6 @@ html {
     height: 100%;
 }
 
-
 body {
     background: url('/media/gv_placeholder.webp') no-repeat center center fixed;
     background-size: cover;
@@ -10,7 +9,6 @@ body {
     color: #555;
     
 }
-
 
 /* from Bulma */
 .icon {
@@ -36,6 +34,19 @@ body {
     color: white;
 }
 
+.btn-outline-black {
+    background : white;
+    color: black !important;
+    border: 1px solid black
+}
+
+.btn-outline-black:hover,
+.btn-outline-black:active,
+.btn-outline-black:focus {
+    background: black;
+    color: white !important;
+}
+
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
@@ -45,7 +56,6 @@ body {
     background: #222;
     color: white;
 }
-
 
 .text-black {
     color: #000 !important;
@@ -72,7 +82,6 @@ body {
 a.category-badge > span.hover {
     background: #212529 !important;
     color: #fff !important;
-
 }
 
 .btt-button {
