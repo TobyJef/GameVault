@@ -1,0 +1,18 @@
+<script type="text/javascript">
+
+    //Increment Quantity
+        $('.increment-qty').click(function(e) {
+            e.preventDefault();
+            var closestInput = $(this).closest('.input-group').find('.qty-input')[0];
+            var currentValue = parseInt($(closestInput).val());
+            $(closestInput).val(currentValue + 1);
+        });
+
+    //Decrement Quantity
+        $('.decrement-qty').click(function(e) {
+            e.preventDefault();
+            var closestInput = $(this).closest('.input-group').find('.qty-input')[0];
+            var currentValue = parseInt($(closestInput).val());
+            $(closestInput).val(currentValue - 1);
+        });
+    </script>
