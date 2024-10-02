@@ -112,7 +112,14 @@
     </header>
 
     {% if messages %}
-    <div class="message-container"></div>
+      <div class="message-container">
+        {% for message in messages %}
+          {% include 'includes/toasts/toast_error.html' %}
+          {% include 'includes/toasts/toast_info.html' %}
+          {% include 'includes/toasts/toast_success.html' %}
+          {% include 'includes/toasts/toast_warning.html' %}
+        {% endfor %}
+      </div>
     {% endif %}
 
     {% block page_header %}
