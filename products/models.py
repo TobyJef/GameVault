@@ -25,6 +25,7 @@ class Product(models.Model):
     genre = models.CharField(max_length=100, null=True, blank=True)
     internal_storage = models.CharField(max_length=10, null=True, blank=True)
     required_storage = models.CharField(max_length=10, null=True, blank=True)
+    pre_owned = models.CharField(max_length=5, null=True, blank=True)
     colour = models.CharField(max_length=50, null=True, blank=True)
     price = models.DecimalField(max_digits=6, decimal_places=2)
     players = models.CharField(max_length=10, null=True, blank=True)
@@ -38,7 +39,7 @@ class Product(models.Model):
 
 
 class Game(models.Model):
-    category = models.ForeignKey('Category', null=True, blank=True, on_delete=models.SET_NULL)
+    game = models.ForeignKey('Game', null=True, blank=True, on_delete=models.SET_NULL)
     sku = models.CharField(max_length=254, null=True, blank=True)
     name = models.CharField(max_length=254)
     description = models.TextField()
@@ -53,10 +54,15 @@ class Game(models.Model):
 
 
 class Console(models.Model):
-    category = models.ForeignKey('Category', null=True, blank=True, on_delete=models.SET_NULL)
+    console = models.ForeignKey('Console', null=True, blank=True, on_delete=models.SET_NULL)
     sku = models.CharField(max_length=254, null=True, blank=True)
     name = models.CharField(max_length=254)
     description = models.TextField()
     internal_storage = models.CharField(max_length=10, null=True, blank=True)
     price = models.DecimalField(max_digits=6, decimal_places=2)
     star_rating = models.DecimalField(max_digits=6, decimal_places=1, null=True, blank=True)
+
+class Accessories(models.Model):
+    accessory = models.ForeignKey('Accessories', null=True, blank=True)
+    colour = models.CharField(max_length=50, null=True, blank=True)
+
