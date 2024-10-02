@@ -50,9 +50,13 @@ The primary site goal of GameVault, is to serve as a business to consumer websit
 
 ## Skeleton Plane
 
+To assist with the creation of the GameVault website, I have used the Boutique Ado walkthrough project from The Code Institute as the foundation for GameVault.
+
 ## Surface Plane
 
 Making use of Bootstrap 5.0, I chose to use the bootstrap theme from StartBootstrap.com. This decision was made to help reduce the required amount of custom css and javascript that would normally be required.
+
+## Business Plan
 
 
 ## Features
@@ -76,6 +80,7 @@ The plan for the data within the database was to have two seperate views, one fo
 - Allauth for new user account registration
 - Balsamiq wireframes
 - [Json Formatter](https://jsonformatter.org/)
+- Jquery 3.7.1
 
 
 
