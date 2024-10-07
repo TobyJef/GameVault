@@ -1,7 +1,3 @@
-import os
-
-CSRF_TRUSTED_ORIGINS = ['https://8000-tobyjef-gamevault-hamkc7nbjjo.ws-eu116.gitpod.io']
-
 """
 Django settings for gamevault project.
 
@@ -13,6 +9,10 @@ https://docs.djangoproject.com/en/3.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
+
+import os
+
+CSRF_TRUSTED_ORIGINS = ['https://8000-tobyjef-gamevault-hamkc7nbjjo.ws-eu116.gitpod.io']
 
 from pathlib import Path
 
@@ -84,13 +84,12 @@ TEMPLATES = [
                 'django.template.context_processors.request', # required by allauth
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
-                'django.templates.context_processors.media',
+                'django.template.context_processors.media',
                 'basket.contexts.basket_contents',
             ],
             'builtins': [
-                'crispy_forms.templatetags.crispy_forms_tags'
-                'crispy_forms.templatetags.crispy_forms_field'
-
+                'crispy_forms.templatetags.crispy_forms_tags',
+                'crispy_forms.templatetags.crispy_forms_field',
             ]
         },
     },
