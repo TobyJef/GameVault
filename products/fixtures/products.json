@@ -917,7 +917,7 @@
         "category": 3,
         "star_rating": 4.4,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_suicide_squad"
+        "image": "xbox_suicide_squad.webp"
     }
 },
 {
@@ -1177,7 +1177,7 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_pro_controller.webp"
+        "image": "ps_fc_24.webp"
     }
 },
 {
@@ -1197,7 +1197,7 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_pro_controller.webp"
+        "image": "ps_final_fantasy.webp"
     }
 },
 {
@@ -1217,7 +1217,7 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_pro_controller.webp"
+        "image": "ps_harvest_moon.webp"
     }
 },
 {
@@ -1237,7 +1237,7 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_pro_controller.webp"
+        "image": "ps_hitman.webp"
     }
 },
 {
@@ -1257,7 +1257,7 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_pro_controller.webp"
+        "image": "ps_hogwarts_legacy.webp"
     }
 },
 {
@@ -1277,7 +1277,7 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_pro_controller.webp"
+        "image": "ps_horizon_forbidden_west.webp"
     }
 },
 {
@@ -1297,7 +1297,7 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_pro_controller.webp"
+        "image": "ps_jedi_survivor"
     }
 },
 {
@@ -1317,7 +1317,287 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_pro_controller.webp"
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 67,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 68,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 69,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 70,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 71,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 72,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 73,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 74,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 75,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 76,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 77,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 78,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 79,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
+    }
+},
+{
+    "pk": 80,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "Nintendo Switch Pro Controller",
+        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_just_dance.webp"
     }
 }
 ]

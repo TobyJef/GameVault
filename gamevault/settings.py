@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 
 import os
 
-CSRF_TRUSTED_ORIGINS = ['https://8000-tobyjef-gamevault-hamkc7nbjjo.ws-eu116.gitpod.io']
+CSRF_TRUSTED_ORIGINS = ['https://8000-tobyjef-gamevault-pn2xr081h61.ws-eu116.gitpod.io']
 
 from pathlib import Path
 
@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-^s7=368#hk00m40)v5nkh160l)zwflkarmtyv06lfmvf049_(u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-tobyjef-gamevault-hamkc7nbjjo.ws-eu116.gitpod.io']
+ALLOWED_HOSTS = ['8000-tobyjef-gamevault-pn2xr081h61.ws-eu116.gitpod.io']
 
 
 # Application definition
