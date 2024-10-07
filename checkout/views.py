@@ -1,7 +1,11 @@
 from django.shortcuts import render, redirect, reverse
 from django.contrib import messages
+from django.conf import settings
 
 from .forms import OrderForm
+from basket.context import basket_contents
+
+import stripe
 
 # Create your views here.
 def checkout(request):
@@ -9,6 +13,10 @@ def checkout(request):
     if not basket:
         messages.error(request, "No items found in your basket")
         return redirect(reverse('products'))
+
+    current_basket = basket_contents(request)
+    total = current_basket['grand_total']
+    stripe_total = round(total * 100)
 
     order_form = OrderForm()
     template = 'checkout/checkout.html'
