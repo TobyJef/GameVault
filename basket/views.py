@@ -26,7 +26,7 @@ def add_to_basket(request, item_id):
         basket[item_id] = quantity
         messages.success(request, f'Added {product.name} to the basket')
 
-    request.session['basket'] = bakset
+    request.session['basket'] = basket
     return redirect(redirect_url)
 
 

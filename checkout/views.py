@@ -3,7 +3,7 @@ from django.contrib import messages
 from django.conf import settings
 
 from .forms import OrderForm
-from basket.context import basket_contents
+from basket.contexts import basket_contents
 
 import stripe
 
