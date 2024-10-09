@@ -530,7 +530,7 @@
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
-        "colour": " midnight black",
+        "colour": "midnight black",
         "price": 59.99,
         "age_rating": "n/a",
         "players": "n/a",
@@ -1147,7 +1147,7 @@
         "sku": "psn",
         "name": "Dying Light 2 Stay Human",
         "description": "Over twenty years ago in Harran, we fought the virus-and lost. Now, we're losing again. The City, one of the last large human settlements, is torn by conflict. Civilization has fallen back into the Dark Ages. And yet, we still have hope. You are a wanderer with the power to change the fate of The City. But your exceptional abilities come at a price.",
-        "genre": "Action, Adventure, Horro",
+        "genre": "Action, Adventure, Horror",
         "internal_storage": "n/a",
         "required_storage": "60GB",
         "colour": "n/a",
@@ -1165,9 +1165,9 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
-        "genre": "n/a",
+        "name": "FC24",
+        "description": " ",
+        "genre": "Football, Sports",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
@@ -1185,8 +1185,8 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Final Fantasy XVI: Deluxe Edition",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
@@ -1205,14 +1205,14 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
-        "genre": "n/a",
+        "name": "Harvest Moon: The Winds of Anthos",
+        "description": " ",
+        "genre": "Farming",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
         "price": 49.99,
-        "age_rating": "n/a",
+        "age_rating": "3+",
         "players": "n/a",
         "category": 2,
         "star_rating": 4.8,
@@ -1225,14 +1225,14 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Hitman World of Assassination",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
         "price": 49.99,
-        "age_rating": "n/a",
+        "age_rating": "18+",
         "players": "n/a",
         "category": 2,
         "star_rating": 4.8,
@@ -1245,8 +1245,8 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Hogwarts Legacy",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
@@ -1265,14 +1265,14 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Horizon Forbidden West",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
         "price": 49.99,
-        "age_rating": "n/a",
+        "age_rating": "16+",
         "players": "n/a",
         "category": 2,
         "star_rating": 4.8,
@@ -1285,15 +1285,15 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Star Wars Jedi Survivor",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
         "price": 49.99,
-        "age_rating": "n/a",
-        "players": "n/a",
+        "age_rating": "12+",
+        "players": "1",
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
@@ -1305,14 +1305,14 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Just Dance 2024 Edition",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
         "price": 49.99,
-        "age_rating": "n/a",
+        "age_rating": "3+",
         "players": "n/a",
         "category": 2,
         "star_rating": 4.8,
@@ -1325,19 +1325,19 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "The Last of Us Part 1",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
         "price": 49.99,
-        "age_rating": "n/a",
-        "players": "n/a",
+        "age_rating": "18+",
+        "players": "1",
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_last_of_us_1.webp"
     }
 },
 {
@@ -1345,19 +1345,19 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Lords of the Fallen: Deluxe Edition",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
         "price": 49.99,
-        "age_rating": "n/a",
+        "age_rating": "18+",
         "players": "n/a",
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_lords_of_the_fallen.webp"
     }
 },
 {
@@ -1365,19 +1365,19 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Marvel's Midnight Suns: Enhanced Edition",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
         "price": 49.99,
-        "age_rating": "n/a",
+        "age_rating": "12+",
         "players": "n/a",
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_marvel_midnight_sun.webp"
     }
 },
 {
@@ -1385,19 +1385,19 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Metal Gear Solid: Master Collection Vol. 1",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
         "price": 49.99,
-        "age_rating": "n/a",
-        "players": "n/a",
+        "age_rating": "18+",
+        "players": "1",
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_metal_gear_solid.webp"
     }
 },
 {
@@ -1405,19 +1405,19 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "RoboCop Rogue City",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
         "price": 49.99,
-        "age_rating": "n/a",
-        "players": "n/a",
+        "age_rating": "18+",
+        "players": "1",
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_robocop.webp"
     }
 },
 {
@@ -1425,8 +1425,8 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Skull and Bones",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
@@ -1437,7 +1437,7 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_skull_and_bones.webp"
     }
 },
 {
@@ -1445,19 +1445,19 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Sonic Frontiers",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
         "price": 49.99,
-        "age_rating": "n/a",
+        "age_rating": "7+",
         "players": "n/a",
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_sonic_frontiers.webp"
     }
 },
 {
@@ -1465,8 +1465,8 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Sonic Generations",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
@@ -1477,7 +1477,7 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_sonic_generations.webp"
     }
 },
 {
@@ -1485,19 +1485,19 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
-        "genre": "n/a",
+        "name": "Marvel's Spider-Man 2",
+        "description": " ",
+        "genre": "Action, Comic Book",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
-        "price": 49.99,
-        "age_rating": "n/a",
-        "players": "n/a",
+        "price": 45.99,
+        "age_rating": "16+",
+        "players": "1",
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_spiderman.webp"
     }
 },
 {
@@ -1505,19 +1505,19 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "Starship Troopers Extermination",
+        "description": "",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
         "price": 49.99,
-        "age_rating": "n/a",
+        "age_rating": "16+",
         "players": "n/a",
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_starship_troopers.webp"
     }
 },
 {
@@ -1525,19 +1525,19 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
-        "genre": "n/a",
+        "name": "Star Wars Outlaws",
+        "description": " ",
+        "genre": "Action, Adventure, Shooter, Sci-Fi",
         "internal_storage": "n/a",
         "required_storage": "n/a",
         "colour": "n/a",
-        "price": 49.99,
-        "age_rating": "n/a",
-        "players": "n/a",
+        "price": 55.99,
+        "age_rating": "12+",
+        "players": "1",
         "category": 2,
-        "star_rating": 4.8,
+        "star_rating": 4.0,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_starwars_outlaws.webp"
     }
 },
 {
@@ -1545,19 +1545,19 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
-        "genre": "n/a",
+        "name": "Suicide Squad: Kill the Justice League",
+        "description": "From Rocksteady Studios, the creators of the Batman: Arkham series, Suicide Squad: Kill the Justice League is a genre-defying third-person action shooter where the ultimate band of misfits must do the impossible to save the world: Kill the Justice League.",
+        "genre": "Action, Shooter, Comic Book",
         "internal_storage": "n/a",
-        "required_storage": "n/a",
+        "required_storage": "65GB",
         "colour": "n/a",
-        "price": 49.99,
-        "age_rating": "n/a",
-        "players": "n/a",
+        "price": 24.99,
+        "age_rating": "18+",
+        "players": "1",
         "category": 2,
-        "star_rating": 4.8,
+        "star_rating": 3.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_suicide_squad.webp"
     }
 },
 {
@@ -1565,19 +1565,19 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
-        "genre": "n/a",
+        "name": "The Crew Motorfest",
+        "description": "Explore a vibrant Hawaiian open world in The Crew™ Motorfest has settled down in one of the most breathtaking places on Earth: the island of O’ahu, Hawaii. Join high-speed street races through the bustling city of Honolulu, test your skills off-road on the ashy slopes of a volcano, or master the perfect curve on the tracks.",
+        "genre": "Racing, Motorsport",
         "internal_storage": "n/a",
-        "required_storage": "n/a",
+        "required_storage": "40GB",
         "colour": "n/a",
-        "price": 49.99,
-        "age_rating": "n/a",
-        "players": "n/a",
+        "price": 29.99,
+        "age_rating": "12+",
+        "players": "1-2",
         "category": 2,
-        "star_rating": 4.8,
+        "star_rating": 4.3,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "ps_the_crew.webp"
     }
 },
 {
@@ -1585,8 +1585,188 @@
     "model": "products.product",
     "fields": {
         "sku": "psn",
-        "name": "Nintendo Switch Pro Controller",
-        "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
+        "name": "UFC 5",
+        "description": " ",
+        "genre": "Fighting, Sport, Combat Sport",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "16+",
+        "players": "n/a",
+        "category": 2,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "ps_ufc_5.webp"
+    }
+},
+{
+    "pk": 81,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Animal Crossing New Horizions",
+        "description": "  ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "3+",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_animal_crossing.webp"
+    }
+},
+{
+    "pk": 82,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Assassin's Creed The Rebel Collection",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "18+",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_assassins_creed.webp"
+    }
+},
+{
+    "pk": 83,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Atari 50",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "16+",
+        "players": "n/a",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_atari_50.webp"
+    }
+},
+{
+    "pk": 84,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Batman Arkham Trilogy",
+        "description": " ",
+        "genre": "Action, Adventure, Comic Book",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_batman.webp"
+    }
+},
+{
+    "pk": 85,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Donkey Kong Country Tropical Freeze",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_donkey_kong.webp"
+    }
+},
+{
+    "pk": 86,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "FC24",
+        "description": " ",
+        "genre": "Football, Sports",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_fc24.webp"
+    }
+},
+{
+    "pk": 87,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Hogwarts Legacy",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_hogwarts_legacy.webp"
+    }
+},
+{
+    "pk": 88,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Kirby and The Forgotten Land",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_kirby.webp"
+    }
+},
+{
+    "pk": 89,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Life is Strange Double Exposure",
+        "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
         "required_storage": "n/a",
@@ -1594,10 +1774,790 @@
         "price": 49.99,
         "age_rating": "n/a",
         "players": "n/a",
-        "category": 2,
+        "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "switch_life_is_strange.webp"
+    }
+},
+{
+    "pk": 90,
+    "model": "products.product",
+    "fields": {
+        "sku": "psn",
+        "name": "The Legend of Zelda: Links Awakening",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_links_awakening.webp"
+    }
+},
+{
+    "pk": 91,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Luigi's Mansion 2 HD",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_luigis_mansion_2.webp"
+    }
+},
+{
+    "pk": 92,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Luigi's Mansion 3",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_luigis_mansion_3.webp"
+    }
+},
+{
+    "pk": 93,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Super Mario 3D World + Bowsers Fury",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_mario_3d_world.webp"
+    }
+},
+{
+    "pk": 94,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "New Super Mario Bros. U Deluxe",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1-4",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_mario_bros_deluxe.webp"
+    }
+},
+{
+    "pk": 95,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Mario Kart 8 Deluxe",
+        "description": " ",
+        "genre": "Racing",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1-4",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_mario_kart.webp"
+    }
+},
+{
+    "pk": 96,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Super Mario Odyssey",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1-2",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_mario_odyssey.webp"
+    }
+},
+{
+    "pk": 97,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Mario Party Superstars",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_mario_party.webp"
+    }
+},
+{
+    "pk": 98,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Super Mario RPG",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_mario_rpg.webp"
+    }
+},
+{
+    "pk": 99,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Mario vs Donkey Kong",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1-2",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_mario_vs_donkey_kong.webp"
+    }
+},
+{
+    "pk": 100,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Super Mario Bros. Wonder",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1-4",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_mario_wonder.webp"
+    }
+},
+{
+    "pk": 101,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Sega Mega Drive Classics",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_mega_drive_collection.webp"
+    }
+},
+{
+    "pk": 102,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Metroid Dread",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_metroid_dread.webp"
+    }
+},
+{
+    "pk": 103,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Minecraft",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_minecraft.webp"
+    }
+},
+{
+    "pk": 104,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Paper Mario The Thousand Year Door",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_paper_mario.webp"
+    }
+},
+{
+    "pk": 105,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Princess Peach Showtime!",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_peach_showtime.webp"
+    }
+},
+{
+    "pk": 106,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pikmin",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pikmin.webp"
+    }
+},
+{
+    "pk": 107,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pikmin 3 Deluxe",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pikmin_3.webp"
+    }
+},
+{
+    "pk": 108,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pikmin 4",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pikmin_4.webp"
+    }
+},
+{
+    "pk": 109,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pokemon Legends Arceus",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pokemon_arceus.webp"
+    }
+},
+{
+    "pk": 110,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pokemon Let's Go Eevee",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pokemon_eevee.webp"
+    }
+},
+{
+    "pk": 111,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pokemon Let's Go Pikachu",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pokemon_pikachu.webp"
+    }
+},
+{
+    "pk": 112,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pokemon Diamond",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pokemon_diamond.webp"
+    }
+},
+{
+    "pk": 113,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pokemon Pearl",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pokemon_pearl.webp"
+    }
+},
+{
+    "pk": 114,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pokemon Sword",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pokemon_sword.webp"
+    }
+},
+{
+    "pk": 115,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pokemon Shield",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pokemon_shield.webp"
+    }
+},
+{
+    "pk": 116,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pokemon Scarlet",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pokemon_scarlet.webp"
+    }
+},
+{
+    "pk": 117,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pokemon Violet",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pokmeon_violet.webp"
+    }
+},
+{
+    "pk": 118,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Pokemon Mystery Dungeon",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_pokemon_mystery_dungeon.webp"
+    }
+},
+{
+    "pk": 119,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Detective Pikachu Returns",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_detective_pikachu.webp"
+    }
+},
+{
+    "pk": 120,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Prince of Persia: The Lost Crown",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_prince_of_persia.webp"
+    }
+},
+{
+    "pk": 121,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Red Dead Redemption",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_red_dead_redemption.webp"
+    }
+},
+{
+    "pk": 122,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Super Smash Bros: Ultimate",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_smash_bros.webp"
+    }
+},
+{
+    "pk": 123,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Sonic Origins",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "n/a",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_sonic_origins.webp"
+    }
+},
+{
+    "pk": 124,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Stardew Valley",
+        "description": " ",
+        "genre": "Farming, Adventure, Action, Role Playing Game",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_stardew_valley.webp"
+    }
+},
+{
+    "pk": 125,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "It Takes Two",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "12+",
+        "players": "1-2",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_takes_two.webp"
+    }
+},
+{
+    "pk": 126,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "Tomb Raider I-III Remastered",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "16+",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_tomb_raider.webp"
+    }
+},
+{
+    "pk": 127,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "The Legend of Zelda: Breathe of the Wild",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_zelda_botw.webp"
+    }
+},
+{
+    "pk": 128,
+    "model": "products.product",
+    "fields": {
+        "sku": "nin",
+        "name": "The Legend of Zelda: Tears of the Kingdom",
+        "description": " ",
+        "genre": "n/a",
+        "internal_storage": "n/a",
+        "required_storage": "n/a",
+        "colour": "n/a",
+        "price": 49.99,
+        "age_rating": "n/a",
+        "players": "1",
+        "category": 1,
+        "star_rating": 4.8,
+        "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
+        "image": "switch_zelda_totk.webp"
     }
 }
 ]
