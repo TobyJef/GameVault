@@ -82,6 +82,7 @@ The plan for the data within the database was to have two seperate views, one fo
 - [Json Formatter](https://jsonformatter.org/)
 - Jquery 3.7.1
 - django-crispy-forms==1.14.0
+- Stripe
 
 
 
