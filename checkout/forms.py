@@ -17,7 +17,7 @@ def __init__(self, *args, **kwargs):
     placeholders = {
         'title': 'Title',
         'first_name': 'First Name',
-        'second_name': 'Second Name',
+        'last_name': 'Last Name',
         'email': 'Email Address',
         'contact_number': 'Contact Number',
         'street_address_1': 'Street Address 1',
