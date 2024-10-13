@@ -44,7 +44,7 @@ The primary site goal of GameVault, is to serve as a business to consumer websit
 
  - A Kanban board was created to help breakdown individual Epics and User Stories tasks
 
- *Kanban board screen shot*
+*Kanban board screen shot*
 *EPICS*
 *User Stories*
 
@@ -54,9 +54,31 @@ To assist with the creation of the GameVault website, I have used the Boutique A
 
 ## Surface Plane
 
-Making use of Bootstrap 5.0, I chose to use the bootstrap theme from StartBootstrap.com. This decision was made to help reduce the required amount of custom css and javascript that would normally be required.
+To assist with the creation of the GameVault website, I have used the Boutique Ado walkthrough project from The Code Institute, for the layout of buttons and menus.
+But have chosen my own colour schemes and text styles.
 
 ## Business Plan
+
+Website: GameVault.com (Placeholder)
+
+- Mission Statement:
+
+GameVault aims to provide gamers and those shopping for their gamer obsessed loved one an easy to use all in one platform for purchasing the latest video games, consoles and accessories. Supporting all the major console platforms and competitively priced against our competitors such as Game, GameStop and Amazon to name a few. While GameVault is currently in its infancy, our product range only currently focuses on selling physical copies of video games, and can not be as great as our competition. However we desire to eventually grow and expand our product ranges and customer base and then cater to those looking to purchase digital copies of games, PC games, gaming merchandise, toys, collectibles and trading cards. We also aim to allow our customers set up pre-orders and get GameVault into the second hand video game market and offer to competition to the likes of eBay and Cex.
+
+- Target Market: 
+
+Casual and hardcore gamers, collectors, and gaming enthusiasts focusing mainly on the UK market but offering international shipping and delivery to Europe and North America.
+
+- Business Objectives:
+
+Establish a foothold within the UK gaming retail market, last vauled in 2023 at £7.82b up 4.4% from 2022. As per the report published April 2024 from 
+[UK Interactive Entertainment](https://ukie.org.uk/news/2024/04/2023VideoGameIndustryValuation).
+
+We aim to do this via the GameVault website (*Insert live link here*) and also through using store fronts on social media initially through our Facebook store, and eventually Instagram and TikTok, which we anticipate will help grow our brand awareness. With future plans of using influencer marketing, and partnerships within the gaming community.
+
+(*Screenshot of GameVault Facebook store here*)
+
+We also anticipate additional sales from our exisiting customer base through the use of promotions and invitations to exclusive events offered exclusively via our newsletter.
 
 
 ## Features
@@ -83,6 +105,7 @@ The plan for the data within the database was to have two seperate views, one fo
 - Jquery 3.7.1
 - django-crispy-forms==1.14.0
 - Stripe
+- Mailchimp
 
 
 
