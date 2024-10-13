@@ -73,7 +73,8 @@ form.addEventListener('submit', function(ev) {
             payment_method: {
                 card: card,
                 billing_details: {
-                    name:$.trim(form.first_name.value, form.last_name.value),
+                    first_name:$.trim(form.first_name.value),
+                    last_name:$.trim(form.last_name.value),
                     phone:$.trim(form.contact_number.value),
                     email:$.trim(form.email.value),
                     address: {
@@ -92,8 +93,8 @@ form.addEventListener('submit', function(ev) {
                     line1:$.trim(form.street_address_1.value),
                     line2:$.trim(form.street_address_2.value),
                     city:$.trim(form.town_or_city.value),
-                    state:$.trim(form.county_or_state.value),
                     postal_code:$.trim(form.post_zipcode.value),
+                    state:$.trim(form.county_or_state.value),
                     country:$.trim(form.country.value),
                 }
             },
