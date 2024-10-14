@@ -2,6 +2,7 @@ from django.http import HttpResponse
 
 from .models import Order, OrderLineItem
 from products.models import Product
+from profiles.models import UserProfile
 
 import json
 import time
@@ -34,20 +35,36 @@ class StripeWH_Handler:
             intent.latest_charge
         )
 
-        # Clean data in the shipping details
         billing_details = stripe_charge.billing_details # updated
         shipping_details = intent.shipping
         grand_total = round(stripe_charge.amount / 100, 2) # updated
 
+        # Clean data in the shipping details
         for field, value in shipping_details.address.items():
             if value == "":
                 shipping_details.address[field] = None
         
+        # Update profile information if save_info was checked
+        profile = None
+        username = intent.metadata.username
+        if username != 'AnonymousUser':
+            profile = UserProfile.objects.get(user_username=username)
+            if save_info:
+                profile.default_contact_number = shipping_details.phone
+                profile.default_street_address_1 = shipping_details.line1
+                profile.default_street_address_2 = shipping_details.line2
+                profile.default_town_or_city = shipping_details.city
+                profile.default_post_zipcode = shipping_details.postal_code
+                profile.default_county_or_state = shipping_details.county
+                profile.default_country = shipping_details.country
+                profile.save()
+
         order_exists = False
         attempt = 1
         while attempt <= 5:
             try:
                 order = Order.objects.get(
+                    title__iexact=shipping_details.title,
                     first_name__iexact=shipping_details.first_name,
                     last_name__iexact=shipping_details.last_name,
                     email__iexact=billing_details.email,
@@ -68,14 +85,16 @@ class StripeWH_Handler:
                     attempt += 1
                     time.sleep(1)
         if order_exists:
-            return HttpResponse( content=f'Webhook recieved {event["type"]} | Success: Verfied Order in database',
+            return HttpResponse( content=f'Webhook recieved {event["type"]} | SUCCESS: Verfied Order in database',
                     status=200)
         else:
             order = None
             try:
                 order = Order.objects.create(
+                title=shipping_details.title,
                 first_name=shipping_details.first_name,
                 last_name=shipping_details.last_name,
+                user_profie=user_profile,
                 email=billing_details.email,
                 contact_number=shipping_details.phone,
                 street_address_1=shipping_details.address.line1,
