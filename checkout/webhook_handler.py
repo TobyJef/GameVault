@@ -1,7 +1,7 @@
 from django.http import HttpResponse
 
 from .models import Order, OrderLineItem
-from products.model import Product
+from products.models import Product
 
 import json
 import time

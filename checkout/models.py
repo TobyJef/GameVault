@@ -4,6 +4,8 @@ from django.db import models
 from django.db.models import Sum
 from django.conf import settings
 
+from django_countries.fields import CountryField
+
 from products.models import Product
 
 # Create your models here.
@@ -14,7 +16,7 @@ class Order(models.Model):
     last_name = models.CharField(max_length=50, null=False, blank=False)
     email = models.EmailField(max_length=255, null=False, blank=False)
     contact_number = models.CharField(max_length=20, null=True, blank=True)
-    country = models.CharField(max_length=40, null=False, blank=False)
+    country = CountryField(blank_label='Country *', null=False, blank=False)
     post_zipcode = models.CharField(max_length=20, null=False, blank=False)
     town_or_city = models.CharField(max_length=50, null=False, blank=False)
     street_address_1 = models.CharField(max_length=100, null=False, blank=False)
