@@ -27,7 +27,7 @@ def __init__(self, *args, **kwargs):
         'county_or_state': 'County or State',
     }
 
-    self.fields['title'].widget.attrs['autofocus'] = True
+    self.fields['title', 'first_name', 'last_name'].widget.attrs['autofocus'] = True
     for field in self.fields:
         if field != 'country':
             if self.fields[field].required:
