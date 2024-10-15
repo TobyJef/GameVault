@@ -1,0 +1,26 @@
+Hello {{ order.first_name}} {{ order.last_name }}
+
+Confirmation of your successful retreival of {{ order.product }} from the GameVault.
+
+Order Number: {{ order.order_number }}
+Order Date: {{ order.date }}
+
+Order Total: ${{ order.order_total }}
+Delivery: ${{ order.delivery_cost }}
+Grand Total: ${{ order.grand_total }}
+
+Your order will be shipped to {{ order.street_address_1 }},
+                              {{ order.street_address_2 }},
+                              {{ order.town_or_city }},
+                              {{ order.post_zipcode }},
+                              {{ order.country }}.
+
+We've got your phone number on file as {{ order.contact_number }}.
+
+If you have any questions, feel free to contact us at {{ contact_email }}.
+
+Thank you for your order!
+
+Sincerely,
+
+GameVault
