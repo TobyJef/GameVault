@@ -1,0 +1,1 @@
+web: gunicorn gamevault.wsgi:application
