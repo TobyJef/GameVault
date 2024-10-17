@@ -31,6 +31,8 @@ The Contents of this site include,
 
 - Log Out, This page allows users to log out. It is hidden on the navbar to those that have yet to register/log in to the GameVault website, then once signed in replaces the Register and Log In spots within the navbar.
 
+- Shopping Basket, to store products that customers wish to purchase and displays a live running total.
+
 
 ## User Experience
 
@@ -83,7 +85,10 @@ We also anticipate additional sales from our exisiting customer base through the
 
 ## Features
 
-- A navbar that provides direction to customers to all the pages across the site. Home, Menu, Enquiries, Profile, My Booking, Register, Log In and Log Out.
+- A navbar that provides direction to customers to all the pages across the site. Home, All Products and individual product pages, 
+   Shopping Basket, Register, Log In and Log Out.
+- A searchbar for shoppers to refine their search for a product.
+
 
 
 ## Database Design
@@ -117,7 +122,61 @@ The plan for the data within the database was to have two seperate views, one fo
 
 ## Deployment
 
-Site deployment was carried out via Heroku.
+- Local Deployment
+
+    * Clone the repository from GitHub by clicking the "Code" button and copying the URL.
+    * Open your preferred IDE and open a terminal session in the directory you want to clone the repository to.
+    * Type git clone followed by the URL you copied in step 1 and press enter.
+    * Install the required dependencies by typing pip install -r requirements.txt in the terminal.
+    * Note: The project is setup to use environment variables. You will need to set these up in your local environment. See Environment Variables for 
+        more information.
+    * Connect your database of choice and run the migrations by typing python manage.py migrate in the terminal.
+    * Create a superuser by typing python manage.py createsuperuser in the terminal and following the prompts.
+    * Optional: Fixtures for Product-related models are included in the project in the core/fixtures directory. To add pre-populated data to the 
+        database, run python manage.py loaddata core/fixtures/[fixture_name].json.
+    * Run the app by typing python manage.py runserver in the terminal and opening the URL in your browser.
+
+- Heroku Deployment
+
+    * Login to the Heroku dashboard and create a new app.
+    * Connect your GitHub repository to your Heroku app.
+    * In the Settings tab, ensure that the Python Buildpack is added.
+    * Set environment variables in the Config Vars section of the Settings tab.
+    * In the Deploy tab, enable automatic deploys from your GitHub repository.
+    * Click the "Deploy Branch" button to deploy the app.
+    * Once the app has been deployed, click the "Open App" button to view the app.
+    * If using S3, you will need to set up an S3 bucket and add the environment variables to your Heroku app.
+
+- Environment Variables
+
+    * For local deployment, you will need to create a .env file in the root directory of the project and set the environment variables in this file.
+    * For Heroku deployment, you will need to set the environment variables through the Heroku CLI or through the Heroku dashboard under 'Config Vars'.
+    * You need to define the following variables:
+         If using a Postgres database:
+            DATABASE_URL - the URL for your Postgres database.
+            NAME - the name of your database.
+            USER - the username for your database.
+            PASSWORD - the password for your database.
+            HOST - the host for your database.
+            PORT - the port for your database.
+        Django settings:
+            SECRET_KEY - the secret key for your Django project.
+            DEBUG - set to True for development, False for production.
+        If using S3:
+            USE_S3 - set to True to use S3, False to use local storage.
+            AWS_ACCESS_KEY_ID - your AWS access key ID.
+            AWS_SECRET_ACCESS_KEY - your AWS secret access key.
+            AWS_STORAGE_BUCKET_NAME - the name of your AWS S3 bucket.
+        If using Mailchimp (Newsletter form):
+            MAILCHIMP_API_KEY - your Mailchimp API key.
+            MAILCHIMP_DATA_CENTER - your Mailchimp-assigned data center
+            MAILCHIMP_LIST_ID - The ID of your mail-list.
+        For Stripe checkout:
+            STRIPE_PRIVATE_KEY - your private API key.
+
+- Additional Stripe Configuration
+
+    Additional to adding your own STRIPE_PRIVATE_KEY, you must also set the return_url and public key in checkout.js
 
 ## Credit
 

@@ -4,7 +4,7 @@
     "pk": 1,
     "model": "products.product",
     "fields": {
-        "sku": "xbxsxbla",
+        "sku": "XBC-SXB-EU-0009",
         "name": "Xbox Series X 1TB Console",
         "description": "The Xbox Series X is the fastest, most powerful Xbox gaming console. Experience 1,000s of titles from 4 generations of gaming on the Series X – where games look and play better than ever.",
         "genre": "n/a",
@@ -17,14 +17,14 @@
         "category": 6,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/51-kkNP6OcL._AC_SL1500_.jpg",
-        "image": "xbox_series_x.webp"
+        "image": "xbox_img/xbox_series_x.webp"
     }
 },
 {
     "pk": 2,
     "model": "products.product",
     "fields": {
-        "sku": "xbxsswhi",
+        "sku": "XBC-SSW-EU-0009",
         "name": "Xbox Series S 512GB Console",
         "description": "The Xbox Series S console packs next generation speed and power into the smallest, sleekest Xbox console. Play thousands of digital games across 4 generations on an all-digital console created for disc-free gaming. *Does not include a Disc Drive. Digital Games only.",
         "genre": "n/a",
@@ -37,14 +37,14 @@
         "category": 6,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/61D3AuT--xL._AC_SL1500_.jpg",
-        "image": "xbox_series_s_white.webp"
+        "image": "xbox_img/xbox_series_s_white.webp"
     }
 },
 {
     "pk": 3,
     "model": "products.product",
     "fields": {
-        "sku": "xbxssbla",
+        "sku": "XBC-SSB-EU-0009",
         "name": "Xbox Series S 1TB Console",
         "description": "Experience next-gen speed and performance with Xbox Series S in Carbon Black, featuring a 1 TB SSD. Make the most of every gaming minute with Quick Resume, lightning-fast load times, and gameplay of up to 120 FPS – all powered by Xbox Velocity Architecture. *Does not include a Disc Drive. Digital Games only.",
         "genre": "n/a",
@@ -57,14 +57,14 @@
         "category": 6,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/51-kkNP6OcL._AC_SL1500_.jpg",
-        "image": "xbox_series_s_black.webp"
+        "image": "xbox_img/xbox_series_s_black.webp"
     }
 },
 {
     "pk": 4,
     "model": "products.product",
     "fields": {
-        "sku": "psn5con",
+        "sku": "PSC-STA-EU-0005",
         "name": "Playstation 5 Standard Console",
         "description": "The PS5 console unleashes new gaming possibilities that you never anticipated. Experience lightning-fast loading with an ultra-high-speed SSD, deeper immersion with support for haptic feedback, adaptive triggers and 3D Audio, and an all-new generation of incredible PlayStation games.",
         "genre": "n/a",
@@ -77,14 +77,14 @@
         "category": 5,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/71PMC4DWWFL._AC_SL1500_.jpg",
-        "image": "ps_console_standard.webp"
+        "image": "playstation_img/ps_console_standard.webp"
     }
 },
 {
     "pk": 5,
     "model": "products.product",
     "fields": {
-        "sku": "psn5conslim",
+        "sku": "PSC-SLW-EU-0005",
         "name": "Playstation 5 Console Slim",
         "description": "The PS5 console unleashes new gaming possibilities that you never anticipated. With PS5, players get powerful gaming technology packed inside a sleek and compact console design.",
         "genre": "n/a",
@@ -97,14 +97,14 @@
         "category": 5,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/51-kkNP6OcL._AC_SL1500_.jpg",
-        "image": "ps_console_slim.webp"
+        "image": "playstation_img/ps_console_slim.webp"
     }
 },
 {
     "pk": 6,
     "model": "products.product",
     "fields": {
-        "sku": "psn5digslim",
+        "sku": "PSC-DIW-EU-0005",
         "name": "Playstation 5 Digital Console Slim",
         "description": "With PS5 Digital Edition, players get powerful gaming technology packed inside a sleek and compact console design. *Does not include a Disc Drive. Digital Games only.",
         "genre": "n/a",
@@ -117,14 +117,14 @@
         "category": 5,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/61WiphT2PlL._AC_SL1500_.jpg",
-        "image": "ps_console_digital_slim.webp"
+        "image": "playstation_img/ps_console_digital_slim.webp"
     }
 },
 {
     "pk": 7,
     "model": "products.product",
     "fields": {
-        "sku": "psn5con",
+        "sku": "PSC-GOW-EU-0005",
         "name": "Playstation 5 Console and God of War Ragnarok Bundle",
         "description": "The PS5 console unleashes new gaming possibilities that you never anticipated. Experience an all-new generation of incredible PlayStation games. Console bundle comes with a digital copy of God of War Ragnarok.",
         "genre": "n/a",
@@ -137,14 +137,14 @@
         "category": 5,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/61rH9XhBFHL._AC_SL1001_.jpg",
-        "image": "ps_console_bundle.webp"
+        "image": "playstation_img/ps_console_bundle.webp"
     }
 },
 {
     "pk": 8,
     "model": "products.product",
     "fields": {
-        "sku": "ninswiredblu",
+        "sku": "NSC-NRB-EU-0004",
         "name": "Nintendo Switch Console",
         "description": "The Nintendo Switch brings you 3 ways to play: docked, tabletop and handheld. This console revolutionises gaming, easily switching from home console to handheld system. Experience HD gaming on your TV, flip to tabletop mode to share the screen or attach the Joy-Con to take your favourite games on the go.",
         "genre": "n/a",
@@ -157,14 +157,14 @@
         "category": 4,
         "star_rating": 4,
         "image_url": "https://m.media-amazon.com/images/I/71rAhcNgSTL._AC_SL1500_.jpg",
-        "image": "nintendo_switch_console.webp"
+        "image": "nintendo_img/nintendo_switch_console.webp"
     }
 },
 {
     "pk": 9,
     "model": "products.product",
     "fields": {
-        "sku": "ninswiowhite",
+        "sku": "NSC-OWH-EU-0004",
         "name": "Nintendo Switch OLED Console - White",
         "description": "Meet the newest member of the Nintendo family, enhanced with a vibrant OLED screen, more stable online play, 64GB internal storage and new speakers. Nintendo Switch OLED transforms to suit your lifestyle, so you can play the games you love wherever you go. Console comes with the new oled exclusive white Joy Cons.",
         "genre": "n/a",
@@ -177,14 +177,14 @@
         "category": 4,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/61LRAVRqyCL._AC_SL1500_.jpg",
-        "image": "nintendo_switch_oled_white.webp"
+        "image": "nintendo_img/nintendo_switch_oled_white.webp"
     }
 },
 {
     "pk": 10,
     "model": "products.product",
     "fields": {
-        "sku": "ninswioled",
+        "sku": "NSC-ORB-EU-0004",
         "name": "Nintendo Switch OLED Console - Neon Red/Neon Blue",
         "description": "Meet the newest member of the Nintendo family, enhanced with a vibrant OLED screen, more stable online play, 64GB internal storage and new speakers. Nintendo Switch OLED transforms to suit your lifestyle, so you can play the games you love wherever you go.",
         "genre": "n/a",
@@ -197,14 +197,14 @@
         "category": 4,
         "star_rating": 4.7,
         "image_url": "https://image.smythstoys.com/thumbnail/desktop/202450.webp",
-        "image": "nintendo_switch_oled.webp"
+        "image": "nintendo_img/nintendo_switch_oled.webp"
     }
 },
 {
     "pk": 11,
     "model": "products.product",
     "fields": {
-        "sku": "swioldpkmn",
+        "sku": "NSC-OSV-EU-0004",
         "name": "Nintendo Switch OLED Console - Pokemon Scarlet and Violet Limited Edition",
         "description": "The Nintendo Switch – OLED Model Pokémon Scarlet and Violet Edition console features art inspired by the upcoming Pokémon Scarlet and Pokémon Violet games (sold separately). The Legendary Pokémon Koraidon and Miraidon are featured on the glossy front side of the white system’s dock, and a design inspired by the series’ iconic Poké Ball is featured on the back.",
         "genre": "n/a",
@@ -217,14 +217,14 @@
         "category": 4,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/81xxEVrQ7tL._AC_SL1500_.jpg",
-        "image": "nintendo_switch_oled_pokemon.webp"
+        "image": "nintendo_img/nintendo_switch_oled_pokemon.webp"
     }
 },
 {
     "pk": 12,
     "model": "products.product",
     "fields": {
-        "sku": "swilitblu",
+        "sku": "NSC-LBL-EU-0004",
         "name": "Nintendo Switch Lite Console - Blue",
         "description": "The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
         "genre": "n/a",
@@ -237,14 +237,14 @@
         "category": 4,
         "star_rating": 3.5,
         "image_url": "https://m.media-amazon.com/images/I/71SAila1MXL._AC_SL1500_.jpg",
-        "image": "nintendo_switch_lite_blue.webp"
+        "image": "nintendo_img/nintendo_switch_lite_blue.webp"
     }
 },
 {
     "pk": 13,
     "model": "products.product",
     "fields": {
-        "sku": "swilitcor",
+        "sku": "NSC-LCO-EU-0004",
         "name": "Nintendo Switch Lite Console - Coral",
         "description": "The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
         "genre": "n/a",
@@ -257,14 +257,14 @@
         "category": 4,
         "star_rating": 3.7,
         "image_url": "https://m.media-amazon.com/images/I/71Sedv0KNPL._AC_SL1500_.jpg",
-        "image": "nintendo_switch_lite_coral.webp"
+        "image": "nintendo_img/nintendo_switch_lite_coral.webp"
     }
 },
 {
     "pk": 14,
     "model": "products.product",
     "fields": {
-        "sku": "swilitgry",
+        "sku": "NSC-LGR-EU-0004",
         "name": "Nintendo Switch Lite Console - Grey",
         "description": "The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
         "genre": "n/a",
@@ -277,14 +277,14 @@
         "category": 4,
         "star_rating": 4.2,
         "image_url": "https://m.media-amazon.com/images/I/71wHzB6GSGL._AC_SL1500_.jpg",
-        "image": "nintendo_switch_lite_grey.webp"
+        "image": "nintendo_img/nintendo_switch_lite_grey.webp"
     }
 },
 {
     "pk": 15,
     "model": "products.product",
     "fields": {
-        "sku": "swilittur",
+        "sku": "NSC-LTU-EU-0004",
         "name": "Nintendo Switch Lite Console - Turqoise",
         "description": "The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
         "genre": "n/a",
@@ -297,14 +297,14 @@
         "category": 4,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/71NVCf39uyL._AC_SL1500_.jpg",
-        "image": "nintendo_switch_lite_turquoise.webp"
+        "image": "nintendo_img/nintendo_switch_lite_turquoise.webp"
     }
 },
 {
     "pk": 16,
     "model": "products.product",
     "fields": {
-        "sku": "swilityel",
+        "sku": "NSC-LYE-EU-0004",
         "name": "Nintendo Switch Lite Console - Yellow",
         "description": "The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
         "genre": "n/a",
@@ -317,14 +317,14 @@
         "category": 4,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/51-kkNP6OcL._AC_SL1500_.jpg",
-        "image": "nintendo_switch_lite_yellow.webp"
+        "image": "nintendo_img/nintendo_switch_lite_yellow.webp"
     }
 },
 {
     "pk": 17,
     "model": "products.product",
     "fields": {
-        "sku": "swilitgol",
+        "sku": "NSC-LHE-EU-0004",
         "name": "Nintendo Switch Lite Console - Hyrule Edition",
         "description": "Limited Hyrule Edition Nintendo Switch Lite Console. The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
         "genre": "n/a",
@@ -337,14 +337,14 @@
         "category": 4,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/51uSBSWgaYL._AC_SL1080_.jpg",
-        "image": "nintendo_switch_lite_gold.webp"
+        "image": "nintendo_img/nintendo_switch_lite_gold.webp"
     }
 },
 {
     "pk": 18,
     "model": "products.product",
     "fields": {
-        "sku": "swilitpkmn",
+        "sku": "NSC-LZZ-EU-0004",
         "name": "Nintendo Switch Lite Console - Zacian and Zamazenta Editon",
         "description": "Limited Pokemon Sword and Pokemon Shield, Zacian and Zamazenta edition. The Nintendo Switch Lite was created for handheld play. Take your gaming on the go with the Lite version of the must-have console.",
         "genre": "n/a",
@@ -357,14 +357,14 @@
         "category": 4,
         "star_rating": 4.5,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_switch_lite_pokemon.webp"
+        "image": "nintendo_img/nintendo_switch_lite_pokemon.webp"
     }
 },
 {
     "pk": 19,
     "model": "products.product",
     "fields": {
-        "sku": "xbxaccbla",
+        "sku": "XBX-CCB-EU-0009",
         "name": "Xbox Wireless Controller – Carbon Black",
         "description": "Experience the updated design of the Xbox Wireless Controller in Carbon Black, which, with its sculpted surfaces and refined geometry, makes gaming more comfortable.",
         "genre": "n/a",
@@ -377,14 +377,14 @@
         "category": 9,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "xbox_controller_black.webp"
+        "image": "xbox_img/xbox_controller_black.webp"
     }
 },
 {
     "pk": 20,
     "model": "products.product",
     "fields": {
-        "sku": "xbxaccblu",
+        "sku": "XBX-CSB-EU-0009",
         "name": "Xbox Wireless Controller – Shock Blue",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Shock Blue, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -397,14 +397,14 @@
         "category": 9,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "xbox_controller_blue.webp"
+        "image": "xbox_img/xbox_controller_blue.webp"
     }
 },
 {
     "pk": 21,
     "model": "products.product",
     "fields": {
-        "sku": "xbxaccgrn",
+        "sku": "XBX-CVG-EU-0009",
         "name": "Xbox Wireless Controller – Velocity Green",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Velocity Green, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -417,14 +417,14 @@
         "category": 9,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "xbox_controller_green.webp"
+        "image": "xbox_img/xbox_controller_green.webp"
     }
 },
 {
     "pk": 22,
     "model": "products.product",
     "fields": {
-        "sku": "xbxaccpnk",
+        "sku": "XBX-CDP-EU-0009",
         "name": "Xbox Wireless Controller – Deep Pink",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Deep Pink, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -437,14 +437,14 @@
         "category": 9,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "xbox_controller_pink.webp"
+        "image": "xbox_img/xbox_controller_pink.webp"
     }
 },
 {
     "pk": 23,
     "model": "products.product",
     "fields": {
-        "sku": "xbxaccpur",
+        "sku": "XBX-CAP-EU-0009",
         "name": "Xbox Wireless Controller – Astral Purple",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Astral Purple, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -457,14 +457,14 @@
         "category": 9,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "xbox_controller_purple.webp"
+        "image": "xbox_img/xbox_controller_purple.webp"
     }
 },
 {
     "pk": 24,
     "model": "products.product",
     "fields": {
-        "sku": "xbxaccred",
+        "sku": "XBX-CPR-EU-0009",
         "name": "Xbox Wireless Controller – Pulse Red",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Pulse Red, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -477,14 +477,14 @@
         "category": 9,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "xbox_controller_red.webp"
+        "image": "xbox_img/xbox_controller_red.webp"
     }
 },
 {
     "pk": 25,
     "model": "products.product",
     "fields": {
-        "sku": "xbxaccwhi",
+        "sku": "XBX-CRW-EU-0009",
         "name": "Xbox Wireless Controller – Robot White",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Robot White, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -497,14 +497,14 @@
         "category": 9,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "xbox_controller_white.webp"
+        "image": "xbox_img/xbox_controller_white.webp"
     }
 },
 {
     "pk": 26,
     "model": "products.product",
     "fields": {
-        "sku": "xbxaccyel",
+        "sku": "XBX-CEV-EU-0009",
         "name": "Xbox Wireless Controller – Electric Volt",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Electric Volt, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -517,14 +517,14 @@
         "category": 9,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "xbox_controller_yellow.webp"
+        "image": "xbox_img/xbox_controller_yellow.webp"
     }
 },
 {
     "pk": 27,
     "model": "products.product",
     "fields": {
-        "sku": "psn5accbla",
+        "sku": "PSA-CMB-EU-0008",
         "name": "PlayStation 5 DualSense Wireless Controller - Midnight Black ",
         "description": "Explore new gaming frontiers with the PS5 DualSense Wireless Controller. Take control with an intuitive layout, enhanced sticks, new ways to create and a reimagined light bar for a new generation of play.",
         "genre": "n/a",
@@ -537,14 +537,14 @@
         "category": 8,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_controller_black.webp"
+        "image": "playstation_img/ps_controller_black.webp"
     }
 },
 {
     "pk": 28,
     "model": "products.product",
     "fields": {
-        "sku": "psn5accblu",
+        "sku": "PSA-CSB-EU-0008",
         "name": "PlayStation 5 DualSense Wireless Controller - Starlight Blue ",
         "description": "Explore new gaming frontiers with the PlayStation 5 Starlight Blue Dualsense Wireless Controller. Take control with an intuitive layout, enhanced sticks, new ways to create and a reimagined light bar for a new generation of play.",
         "genre": "n/a",
@@ -557,14 +557,14 @@
         "category": 8,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_controller_blue.webp"
+        "image": "playstation_img/ps_controller_blue.webp"
     }
 },
 {
     "pk": 29,
     "model": "products.product",
     "fields": {
-        "sku": "psn5accpur",
+        "sku": "PSA-CGP-EU-0008",
         "name": "PlayStation 5 DualSense Wireless Controller - Galactic Purple ",
         "description": "Explore new gaming frontiers with the PlayStation 5 Galactic Purple Dualsense Wireless Controller. Take control with an intuitive layout, enhanced sticks, new ways to create and a reimagined light bar for a new generation of play.",
         "genre": "n/a",
@@ -577,14 +577,14 @@
         "category": 8,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_controller_purple.webp"
+        "image": "playstation_img/ps_controller_purple.webp"
     }
 },
 {
     "pk": 30,
     "model": "products.product",
     "fields": {
-        "sku": "psn5accred",
+        "sku": "PSA-CCR-EU-0008",
         "name": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
         "description": "Explore new gaming frontiers with the PlayStation 5 Cosmic Red Dualsense Wireless Controller. Take control with an intuitive layout, enhanced sticks, new ways to create and a reimagined light bar for a new generation of play.",
         "genre": "n/a",
@@ -597,14 +597,14 @@
         "category": 8,
         "star_rating": 4.9,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_controller_red.webp"
+        "image": "playstation_img/ps_controller_red.webp"
     }
 },
 {
     "pk": 31,
     "model": "products.product",
     "fields": {
-        "sku": "psn5accwhi",
+        "sku": "PSA-CWH-EU-0008",
         "name": "PlayStation 5 DualSense Wireless Controller - White ",
         "description": "Bring gaming worlds to life with the PS5 DualSense Wireless Controller. Take control with an intuitive layout, enhanced sticks, new ways to create and a reimagined light bar for a new generation of play.",
         "genre": "n/a",
@@ -617,14 +617,14 @@
         "category": 8,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_controller_white.webp"
+        "image": "playstation_img/ps_controller_white.webp"
     }
 },
 {
     "pk": 32,
     "model": "products.product",
     "fields": {
-        "sku": "ninaccgry",
+        "sku": "NSA-JGR-EU-0007",
         "name": "Nintendo Switch Joy-Con Controllers (L/R) - Grey",
         "description": "Make your Nintendo Switch Joy-Con controllers a classic pair in Grey. These wireless motion controllers offer a surprising range of new ways to play.",
         "genre": "n/a",
@@ -637,14 +637,14 @@
         "category": 7,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_joy_cons_grey.webp"
+        "image": "nintendo_img/nintendo_joy_cons_grey.webp"
     }
 },
 {
     "pk": 33,
     "model": "products.product",
     "fields": {
-        "sku": "ninaccnbl",
+        "sku": "NSA-JBL-EU-0007",
         "name": "Nintendo Switch Joy-Con Controllers (L/R) - Neon Blue",
         "description": "Make your Nintendo Switch Joy-Con controllers stand out in Neon Blue. These wireless motion controllers offer a surprising range of new ways to play.",
         "genre": "n/a",
@@ -657,14 +657,14 @@
         "category": 7,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_joy_cons_neon_blue.webp"
+        "image": "nintendo_img/nintendo_joy_cons_neon_blue.webp"
     }
 },
 {
     "pk": 34,
     "model": "products.product",
     "fields": {
-        "sku": "ninaccpng",
+        "sku": "NSA-JPG-EU-0007",
         "name": "Nintendo Switch Joy-Con Controllers (L/R) - Neon Pink/Neon Green",
         "description": "Make your Nintendo Switch Joy-Con controllers stand out in Neon Pink and Neon Green. These wireless motion controllers offer a surprising range of new ways to play.",
         "genre": "n/a",
@@ -677,14 +677,14 @@
         "category": 7,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_joy_cons_pink_green.webp"
+        "image": "nintendo_img/nintendo_joy_cons_pink_green.webp"
     }
 },
 {
     "pk": 35,
     "model": "products.product",
     "fields": {
-        "sku": "ninaccrnb",
+        "sku": "NSA-JRB-EU-0007",
         "name": "Nintendo Switch Joy-Con Controllers (L/R) - Neon Red/Neon Blue",
         "description": "Make your Nintendo Switch Joy-Con controllers a classic pair in Neon Red and Blue. These wireless motion controllers offer a surprising range of new ways to play.",
         "genre": "n/a",
@@ -697,14 +697,14 @@
         "category": 7,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_joy_cons_red_blue.webp"
+        "image": "nintendo_img/nintendo_joy_cons_red_blue.webp"
     }
 },
 {
     "pk": 36,
     "model": "products.product",
     "fields": {
-        "sku": "ninaccred",
+        "sku": "NSA-JRE-EU-0007",
         "name": "Nintendo Switch Joy-Con Controllers (L/R) - Neon Red",
         "description": "Make your Nintendo Switch Joy-Con controllers stand out in Neon Red. These wireless motion controllers offer a surprising range of new ways to play.",
         "genre": "n/a",
@@ -717,14 +717,14 @@
         "category": 7,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_joy_cons_red.webp"
+        "image": "nintendo_img/nintendo_joy_cons_red.webp"
     }
 },
 {
     "pk": 37,
     "model": "products.product",
     "fields": {
-        "sku": "ninaccyel",
+        "sku": "NSA-JYE-EU-0007",
         "name": "Nintendo Switch Joy-Con Controllers (L/R) - Neon Yellow",
         "description": "Make your Nintendo Switch Joy-Con controllers stand out in Neon Yellow. These wireless motion controllers offer a surprising range of new ways to play.",
         "genre": "n/a",
@@ -737,14 +737,14 @@
         "category": 7,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_joy_cons_yellow.webp"
+        "image": "nintendo_img/nintendo_joy_cons_yellow.webp"
     }
 },
 {
     "pk": 38,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSA-SPC-EU-0007",
         "name": "Nintendo Switch Pro Controller",
         "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
         "genre": "n/a",
@@ -757,14 +757,14 @@
         "category": 7,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_pro_controller.webp"
+        "image": "nintendo_img/nintendo_pro_controller.webp"
     }
 },
 {
     "pk": 39,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-ACV-EU-0003",
         "name": "Assassin's Creed Valhalla",
         "description": "In Assassin’s Creed® Valhalla, you are Eivor, a fierce Viking warrior raised on tales of battle and glory. Explore a mysterious and beautiful open world set against the brutal backdrop of England’s Dark Ages. Raid your enemies, grow your settlement, and build your political power in the quest to earn a place among the gods in Valhalla.",
         "genre": "Action, Adventure, Role Playing Game",
@@ -777,14 +777,14 @@
         "category": 3,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_ac_valhalla.webp"
+        "image": "xbox_img/xbox_ac_valhalla.webp"
     }
 },
 {
     "pk": 40,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-ACM-EU-0003",
         "name": "Assassin's Creed Mirage",
         "description": "Experience the story of Basim, a cunning street thief with nightmarish visions, seeking answers and justice as he navigates the bustling streets of ninth-century Baghdad. Through a mysterious, ancient organization known as the Hidden Ones, he will become a deadly Master Assassin and change his fate in ways he never could have imagined.",
         "genre": "Action, Adventure, Role Playing Game",
@@ -797,14 +797,14 @@
         "category": 3,
         "star_rating": 4.5,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_ac_mirage.webp"
+        "image": "xbox_img/xbox_ac_mirage.webp"
     }
 },
 {
     "pk": 41,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-AVA-EU-0003",
         "name": "Avatar: Frontiers of Pandora",
         "description": "Experience the epic wonders of the Western Frontier, a never-before-seen continent of Pandora. Journey through beautiful yet unpredictable open world regions, where lowering your guard can lead to deadly mistakes.",
         "genre": "Action, Adventure, Role Playing Game",
@@ -817,14 +817,14 @@
         "category": 3,
         "star_rating": 4.7,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_avatar.webp"
+        "image": "xbox_img/xbox_avatar.webp"
     }
 },
 {
     "pk": 42,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-TCM-EU-0003",
         "name": "The Crew Motorfest",
         "description": "Explore a vibrant Hawaiian open world in The Crew™ Motorfest has settled down in one of the most breathtaking places on Earth: the island of O’ahu, Hawaii. Join high-speed street races through the bustling city of Honolulu, test your skills off-road on the ashy slopes of a volcano, or master the perfect curve on the tracks.",
         "genre": "Racing, Motorsport",
@@ -837,14 +837,14 @@
         "category": 3,
         "star_rating": 4.4,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_the_crew.webp"
+        "image": "xbox_img/xbox_the_crew.webp"
     }
 },
 {
     "pk": 43,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-TC2-EU-0003",
         "name": "The Crew 2",
         "description": "The newest iteration in the revolutionary franchise, The Crew 2 captures the thrill of the American motorsports spirit in one of the most exhilarating open worlds ever created. Welcome to Motornation, a huge, varied, action-packed, and beautiful playground built for motorsports throughout the entire US of A. Enjoy unrestrained exploration on ground, sea, and sky.",
         "genre": "Racing, Motorsport, Boat Racing, Aircraft Racing",
@@ -857,14 +857,14 @@
         "category": 3,
         "star_rating": 4.5,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_the_crew_2.webp"
+        "image": "xbox_img/xbox_the_crew_2.webp"
     }
 },
 {
     "pk": 44,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-WDL-EU-0003",
         "name": "Watch Dogs Legion",
         "description": "Build a resistance from virtually anyone you see as you hack, infiltrate, and fight to take back a near-future London that is facing its downfall.",
         "genre": "n/a",
@@ -877,14 +877,14 @@
         "category": 3,
         "star_rating": 4.3,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_watchdogs.webp"
+        "image": "xbox_img/xbox_watchdogs.webp"
     }
 },
 {
     "pk": 45,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-SKU-EU-0003",
         "name": "Skull and Bones",
         "description": "Enter the perilous world of Skull and Bones, a co-op pirate open world action-RPG experience, to become the most infamous pirate kingpin! Engage in thrilling naval battles and equip a multitude of powerful weapons as you risk it all for the biggest loot. Sail the lawless seas solo, or team up with two friends or other players to partake in shareable contracts and rewards.",
         "genre": "Action, Naval Combat, Open World, Role Playing Game",
@@ -897,14 +897,14 @@
         "category": 3,
         "star_rating": 3.8,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_skull_and_bones.webp"
+        "image": "xbox_img/xbox_skull_and_bones.webp"
     }
 },
 {
     "pk": 46,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-KJL-EU-0003",
         "name": "Suicide Squad: Kill the Justice League",
         "description": "From Rocksteady Studios, the creators of the Batman: Arkham series, Suicide Squad: Kill the Justice League is a genre-defying third-person action shooter where the ultimate band of misfits must do the impossible to save the world: Kill the Justice League.",
         "genre": "Action, Shooter, Comic Book",
@@ -917,14 +917,14 @@
         "category": 3,
         "star_rating": 4.4,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_suicide_squad.webp"
+        "image": "xbox_img/xbox_suicide_squad.webp"
     }
 },
 {
     "pk": 47,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-B4B-EU-0003",
         "name": "Back 4 Blood",
         "description": "Back 4 blood is a thrilling cooperative first-person shooter from the creators of the critically acclaimed left 4 dead franchise. You are at the center of a war against the ridden. These once-human hosts of a deadly parasite have turned into terrifying creatures bent on devouring what remains of civilization. With humanity's extinction on the line, it's up to you and your friends to take the fight to the enemy, eradicate the ridden, and reclaim the world.",
         "genre": "First Person Shooter, Horror, Action",
@@ -937,14 +937,14 @@
         "category": 3,
         "star_rating": 4.4,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_back_4_blood.webp"
+        "image": "xbox_img/xbox_back_4_blood.webp"
     }
 },
 {
     "pk": 48,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-FC6-EU-0003",
         "name": "Far Cry 6",
         "description": "Welcome to yara, a tropical Paradise frozen in time. As the dictator of yara, Anton Castillo is Intent on restoring his nation back to its former glory by any means, with his son, Diego, following in his bloody footsteps. Their ruthless oppression has ignited a revolution.",
         "genre": "First Person Shooter, Action, Adventure",
@@ -957,14 +957,14 @@
         "category": 3,
         "star_rating": 4.5,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_farcry.webp"
+        "image": "xbox_img/xbox_farcry.webp"
     }
 },
 {
     "pk": 49,
     "model": "products.product",
     "fields": {
-        "sku": "xbxaccpro",
+        "sku": "XBX-FOR-EU-0003",
         "name": "Forza Motorsport",
         "description": "The Nintendo Switch Pro Controller combines classic design with motion sensors to switch up your gaming experience. This semi-transparent controller features premium grips for a more comfortable hold. The single directional control pad offers an alternative to the Joy-Con controllers included with your Nintendo Switch console.",
         "genre": "Racing, Motorsport",
@@ -977,14 +977,14 @@
         "category": 3,
         "star_rating": 4.5,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "xbox_forza.webp"
+        "image": "xbox_img/xbox_forza.webp"
     }
 },
 {
     "pk": 50,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-D24-EU-0003",
         "name": "Just Dance 2024 Edition",
         "description": "Dance and share exciting moments all year long with the #1 music video game platform of all time! Just Dance 2024 Edition features 40 songs, from the latest hits and beloved classics including 'Flowers' by Miley Cyrus, 'Tití Me Preguntó' by Bad Bunny, 'How You Like That' by BLACKPINK, and 'I Wanna Dance With Somebody' by Whitney Houston!",
         "genre": "Dance",
@@ -997,14 +997,14 @@
         "category": 3,
         "star_rating": 3.3,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_just_dance.webp"
+        "image": "xbox_img/xbox_just_dance.webp"
     }
 },
 {
     "pk": 51,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-MON-EU-0003",
         "name": "Monopoly Madness",
         "description": "Would you like to become the new Mr. Monopoly? It's your lucky day! Our favourite Real-Estate Mogul is going on a well-earned vacation and he's looking for a temporary stand-in. His method of selection? A race for fame and fortune! This time the rules have changed slightly: engage in a frantic real-time competitive race to see who has what it takes to take Mr. Monopoly's place!",
         "genre": "Boardgame, Party Video Game",
@@ -1017,14 +1017,14 @@
         "category": 3,
         "star_rating": 4.0,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_monopoly.webp"
+        "image": "xbox_img/xbox_monopoly.webp"
     }
 },
 {
     "pk": 52,
     "model": "products.product",
     "fields": {
-        "sku": "xbx",
+        "sku": "XBX-POP-EU-0003",
         "name": "Prince of Persia: The Lost Crown",
         "description": "Dash into a stylish and thrilling action-adventure platformer set in a mythological Persian world where the boundaries of time and space are yours to manipulate. Play as Sargon and evolve from sword-wielding prodigy to extraordinary legend as you master acrobatic combat and unlock new Time Powers and unique super abilities.",
         "genre": "Platformer, Action, Puzzle",
@@ -1037,14 +1037,14 @@
         "category": 3,
         "star_rating": 4.5,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "xbox_prince_of_persia.webp"
+        "image": "xbox_img/xbox_prince_of_persia.webp"
     }
 },
 {
     "pk": 53,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-ACM-EU-0002",
         "name": "Assassin's Creed Mirage",
         "description": "Experience the story of Basim, a cunning street thief with nightmarish visions, seeking answers and justice as he navigates the bustling streets of ninth-century Baghdad. Through a mysterious, ancient organization known as the Hidden Ones, he will become a deadly Master Assassin and change his fate in ways he never could have imagined.",
         "genre": "Action, Adventure, Role Playing Game",
@@ -1057,14 +1057,14 @@
         "category": 2,
         "star_rating": 4.5,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_ac_mirage.webp"
+        "image": "playstation_img/ps_ac_mirage.webp"
     }
 },
 {
     "pk": 54,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-AVA-EU-0002",
         "name": "Avatar: Frontiers of Pandora",
         "description": "Experience the epic wonders of the Western Frontier, a never-before-seen continent of Pandora. Journey through beautiful yet unpredictable open world regions, where lowering your guard can lead to deadly mistakes.",
         "genre": "Action, Adventure, Role Playing Game",
@@ -1077,14 +1077,14 @@
         "category": 2,
         "star_rating": 4.5,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_avatar.webp"
+        "image": "playstation_img/ps_avatar.webp"
     }
 },
 {
     "pk": 55,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-BLU-EU-0002",
         "name": "Bluey: The Videogame",
         "description": "Join the fun with Bluey and her family in Bluey: The Videogame! Play a brand-new story set across 4 interactive episodes. For the first time ever, explore iconic locations such as the Heeler House, Playgrounds, Creek and a bonus beach location. Play your favourite games from the TV show, including Keepy Uppy, Chattermax Chase, and more!",
         "genre": "Adventure, Story",
@@ -1097,14 +1097,14 @@
         "category": 2,
         "star_rating": 4.5,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "ps_bluey.webp"
+        "image": "playstation_img/ps_bluey.webp"
     }
 },
 {
     "pk": 56,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-CYB-EU-0002",
         "name": "CyberPunk 2077: Ultimate Edition",
         "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in Night City, a megalopolis obsessed with power, glamour, and body modification. Play as V, a cyberpunk mercenary, and take on the most powerful forces of the city in a fight for glory and survival. Legends will be made here. What will yours be?",
         "genre": "Action, Adventure, Role Playing Game, Sci-Fi",
@@ -1117,14 +1117,14 @@
         "category": 2,
         "star_rating": 4.6,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "ps_cyberpunk.webp"
+        "image": "playstation_img/ps_cyberpunk.webp"
     }
 },
 {
     "pk": 57,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-DAV-EU-0002",
         "name": "Dragon Age: The Veilguard",
         "description": "Enter the world of Thedas, a vibrant land of rugged wilderness, treacherous labyrinths, and glittering cities – steeped in conflict and secret magics. Now, a pair of corrupt ancient gods have broken free from centuries of darkness and are hellbent on destroying the world. Thedas needs someone they can count on.",
         "genre": "Action, Adventure, Fantasy, Role Playing Game",
@@ -1135,16 +1135,16 @@
         "age_rating": "18+",
         "players": "1",
         "category": 2,
-        "star_rating": 0.0,
+        "star_rating": 4.0,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "ps_dragon_age.webp"
+        "image": "playstation_img/ps_dragon_age.webp"
     }
 },
 {
     "pk": 58,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-DL2-EU-0002",
         "name": "Dying Light 2 Stay Human",
         "description": "Over twenty years ago in Harran, we fought the virus-and lost. Now, we're losing again. The City, one of the last large human settlements, is torn by conflict. Civilization has fallen back into the Dark Ages. And yet, we still have hope. You are a wanderer with the power to change the fate of The City. But your exceptional abilities come at a price.",
         "genre": "Action, Adventure, Horror",
@@ -1157,14 +1157,14 @@
         "category": 2,
         "star_rating": 4.4,
         "image_url": "https://m.media-amazon.com/images/G/02/apparel/rcxgs/tile._CB483369956_.gif",
-        "image": "ps_dying_light_2.webp"
+        "image": "playstation_img/ps_dying_light_2.webp"
     }
 },
 {
     "pk": 59,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-FC4-EU-0002",
         "name": "FC24",
         "description": " ",
         "genre": "Football, Sports",
@@ -1177,14 +1177,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_fc_24.webp"
+        "image": "playstation_img/ps_fc_24.webp"
     }
 },
 {
     "pk": 60,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-FFA-EU-0002",
         "name": "Final Fantasy XVI: Deluxe Edition",
         "description": " ",
         "genre": "n/a",
@@ -1197,14 +1197,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_final_fantasy.webp"
+        "image": "playstation_img/ps_final_fantasy.webp"
     }
 },
 {
     "pk": 61,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-WOA-EU-0002",
         "name": "Harvest Moon: The Winds of Anthos",
         "description": " ",
         "genre": "Farming",
@@ -1217,14 +1217,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_harvest_moon.webp"
+        "image": "playstation_img/ps_harvest_moon.webp"
     }
 },
 {
     "pk": 62,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-HIT-EU-0002",
         "name": "Hitman World of Assassination",
         "description": " ",
         "genre": "n/a",
@@ -1237,14 +1237,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_hitman.webp"
+        "image": "playstation_img/ps_hitman.webp"
     }
 },
 {
     "pk": 63,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-HOG-EU-0002",
         "name": "Hogwarts Legacy",
         "description": " ",
         "genre": "n/a",
@@ -1257,14 +1257,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_hogwarts_legacy.webp"
+        "image": "playstation_img/ps_hogwarts_legacy.webp"
     }
 },
 {
     "pk": 64,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-HFW-EU-0002",
         "name": "Horizon Forbidden West",
         "description": " ",
         "genre": "n/a",
@@ -1277,14 +1277,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_horizon_forbidden_west.webp"
+        "image": "playstation_img/ps_horizon_forbidden_west.webp"
     }
 },
 {
     "pk": 65,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-JED-EU-0002",
         "name": "Star Wars Jedi Survivor",
         "description": " ",
         "genre": "n/a",
@@ -1297,14 +1297,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_jedi_survivor"
+        "image": "playstation_img/ps_jedi_survivor"
     }
 },
 {
     "pk": 66,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-D24-EU-0002",
         "name": "Just Dance 2024 Edition",
         "description": " ",
         "genre": "n/a",
@@ -1317,14 +1317,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_just_dance.webp"
+        "image": "playstation_img/ps_just_dance.webp"
     }
 },
 {
     "pk": 67,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-TLU-EU-0002",
         "name": "The Last of Us Part 1",
         "description": " ",
         "genre": "n/a",
@@ -1337,14 +1337,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_last_of_us_1.webp"
+        "image": "playstation_img/ps_last_of_us_1.webp"
     }
 },
 {
     "pk": 68,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-LOF-EU-0002",
         "name": "Lords of the Fallen: Deluxe Edition",
         "description": " ",
         "genre": "n/a",
@@ -1357,14 +1357,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_lords_of_the_fallen.webp"
+        "image": "playstation_img/ps_lords_of_the_fallen.webp"
     }
 },
 {
     "pk": 69,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-MMS-EU-0002",
         "name": "Marvel's Midnight Suns: Enhanced Edition",
         "description": " ",
         "genre": "n/a",
@@ -1377,14 +1377,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_marvel_midnight_sun.webp"
+        "image": "playstation_img/ps_marvel_midnight_sun.webp"
     }
 },
 {
     "pk": 70,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-MC1-EU-0002",
         "name": "Metal Gear Solid: Master Collection Vol. 1",
         "description": " ",
         "genre": "n/a",
@@ -1397,14 +1397,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_metal_gear_solid.webp"
+        "image": "playstation_img/ps_metal_gear_solid.webp"
     }
 },
 {
     "pk": 71,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-RBC-EU-0002",
         "name": "RoboCop Rogue City",
         "description": " ",
         "genre": "n/a",
@@ -1417,14 +1417,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_robocop.webp"
+        "image": "playstation_img/ps_robocop.webp"
     }
 },
 {
     "pk": 72,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-SKU-EU-0002",
         "name": "Skull and Bones",
         "description": " ",
         "genre": "n/a",
@@ -1437,14 +1437,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_skull_and_bones.webp"
+        "image": "playstation_img/ps_skull_and_bones.webp"
     }
 },
 {
     "pk": 73,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-SOF-EU-0002",
         "name": "Sonic Frontiers",
         "description": " ",
         "genre": "n/a",
@@ -1457,14 +1457,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_sonic_frontiers.webp"
+        "image": "playstation_img/ps_sonic_frontiers.webp"
     }
 },
 {
     "pk": 74,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-SOG-EU-0002",
         "name": "Sonic Generations",
         "description": " ",
         "genre": "n/a",
@@ -1477,14 +1477,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_sonic_generations.webp"
+        "image": "playstation_img/ps_sonic_generations.webp"
     }
 },
 {
     "pk": 75,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-SM2-EU-0002",
         "name": "Marvel's Spider-Man 2",
         "description": " ",
         "genre": "Action, Comic Book",
@@ -1497,14 +1497,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_spiderman.webp"
+        "image": "playstation_img/ps_spiderman.webp"
     }
 },
 {
     "pk": 76,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-STE-EU-0002",
         "name": "Starship Troopers Extermination",
         "description": "",
         "genre": "n/a",
@@ -1517,14 +1517,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_starship_troopers.webp"
+        "image": "playstation_img/ps_starship_troopers.webp"
     }
 },
 {
     "pk": 77,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-SWO-EU-0002",
         "name": "Star Wars Outlaws",
         "description": " ",
         "genre": "Action, Adventure, Shooter, Sci-Fi",
@@ -1537,14 +1537,14 @@
         "category": 2,
         "star_rating": 4.0,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_starwars_outlaws.webp"
+        "image": "playstation_img/ps_starwars_outlaws.webp"
     }
 },
 {
     "pk": 78,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-KJL-EU-0002",
         "name": "Suicide Squad: Kill the Justice League",
         "description": "From Rocksteady Studios, the creators of the Batman: Arkham series, Suicide Squad: Kill the Justice League is a genre-defying third-person action shooter where the ultimate band of misfits must do the impossible to save the world: Kill the Justice League.",
         "genre": "Action, Shooter, Comic Book",
@@ -1557,14 +1557,14 @@
         "category": 2,
         "star_rating": 3.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_suicide_squad.webp"
+        "image": "playstation_img/ps_suicide_squad.webp"
     }
 },
 {
     "pk": 79,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-TCM-EU-0002",
         "name": "The Crew Motorfest",
         "description": "Explore a vibrant Hawaiian open world in The Crew™ Motorfest has settled down in one of the most breathtaking places on Earth: the island of O’ahu, Hawaii. Join high-speed street races through the bustling city of Honolulu, test your skills off-road on the ashy slopes of a volcano, or master the perfect curve on the tracks.",
         "genre": "Racing, Motorsport",
@@ -1577,14 +1577,14 @@
         "category": 2,
         "star_rating": 4.3,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_the_crew.webp"
+        "image": "playstation_img/s_the_crew.webp"
     }
 },
 {
     "pk": 80,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "PSN-UFC-EU-0002",
         "name": "UFC 5",
         "description": " ",
         "genre": "Fighting, Sport, Combat Sport",
@@ -1597,14 +1597,14 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "ps_ufc_5.webp"
+        "image": "playstation_img/ps_ufc_5.webp"
     }
 },
 {
     "pk": 81,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-ANI-EU-0001",
         "name": "Animal Crossing New Horizions",
         "description": "  ",
         "genre": "n/a",
@@ -1617,14 +1617,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_animal_crossing.webp"
+        "image": "nintendo_img/switch_animal_crossing.webp"
     }
 },
 {
     "pk": 82,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-ASC-EU-0001",
         "name": "Assassin's Creed The Rebel Collection",
         "description": " ",
         "genre": "n/a",
@@ -1637,14 +1637,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_assassins_creed.webp"
+        "image": "nintendo_img/switch_assassins_creed.webp"
     }
 },
 {
     "pk": 83,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-A50-EU-0001",
         "name": "Atari 50",
         "description": " ",
         "genre": "n/a",
@@ -1657,14 +1657,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_atari_50.webp"
+        "image": "nintendo_img/switch_atari_50.webp"
     }
 },
 {
     "pk": 84,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-BAT-EU-0001",
         "name": "Batman Arkham Trilogy",
         "description": " ",
         "genre": "Action, Adventure, Comic Book",
@@ -1677,14 +1677,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_batman.webp"
+        "image": "nintendo_img/witch_batman.webp"
     }
 },
 {
     "pk": 85,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-DKC-EU-0001",
         "name": "Donkey Kong Country Tropical Freeze",
         "description": " ",
         "genre": "n/a",
@@ -1697,14 +1697,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_donkey_kong.webp"
+        "image": "nintendo_img/switch_donkey_kong.webp"
     }
 },
 {
     "pk": 86,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-FC4-EU-0001",
         "name": "FC24",
         "description": " ",
         "genre": "Football, Sports",
@@ -1717,14 +1717,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_fc24.webp"
+        "image": "nintendo_img/switch_fc24.webp"
     }
 },
 {
     "pk": 87,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-HOG-EU-0001",
         "name": "Hogwarts Legacy",
         "description": " ",
         "genre": "n/a",
@@ -1737,14 +1737,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_hogwarts_legacy.webp"
+        "image": "nintendo_img/switch_hogwarts_legacy.webp"
     }
 },
 {
     "pk": 88,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-KFL-EU-0001",
         "name": "Kirby and The Forgotten Land",
         "description": " ",
         "genre": "n/a",
@@ -1757,14 +1757,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_kirby.webp"
+        "image": "nintendo_img/switch_kirby.webp"
     }
 },
 {
     "pk": 89,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-LIS-EU-0001",
         "name": "Life is Strange Double Exposure",
         "description": " ",
         "genre": "n/a",
@@ -1777,14 +1777,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_life_is_strange.webp"
+        "image": "nintendo_img/switch_life_is_strange.webp"
     }
 },
 {
     "pk": 90,
     "model": "products.product",
     "fields": {
-        "sku": "psn",
+        "sku": "NSW-ZLA-EU-0001",
         "name": "The Legend of Zelda: Links Awakening",
         "description": " ",
         "genre": "n/a",
@@ -1797,14 +1797,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_links_awakening.webp"
+        "image": "nintendo_img/switch_links_awakening.webp"
     }
 },
 {
     "pk": 91,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-LM2-EU-0001",
         "name": "Luigi's Mansion 2 HD",
         "description": " ",
         "genre": "n/a",
@@ -1817,14 +1817,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_luigis_mansion_2.webp"
+        "image": "nintendo_img/switch_luigis_mansion_2.webp"
     }
 },
 {
     "pk": 92,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-LM3-EU-0001",
         "name": "Luigi's Mansion 3",
         "description": " ",
         "genre": "n/a",
@@ -1837,14 +1837,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_luigis_mansion_3.webp"
+        "image": "nintendo_img/switch_luigis_mansion_3.webp"
     }
 },
 {
     "pk": 93,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-M3D-EU-0001",
         "name": "Super Mario 3D World + Bowsers Fury",
         "description": " ",
         "genre": "n/a",
@@ -1857,14 +1857,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_mario_3d_world.webp"
+        "image": "nintendo_img/switch_mario_3d_world.webp"
     }
 },
 {
     "pk": 94,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-NSM-EU-0001",
         "name": "New Super Mario Bros. U Deluxe",
         "description": " ",
         "genre": "n/a",
@@ -1877,14 +1877,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_mario_bros_deluxe.webp"
+        "image": "nintendo_img/switch_mario_bros_deluxe.webp"
     }
 },
 {
     "pk": 95,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-MK8-EU-0001",
         "name": "Mario Kart 8 Deluxe",
         "description": " ",
         "genre": "Racing",
@@ -1897,14 +1897,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_mario_kart.webp"
+        "image": "nintendo_img/switch_mario_kart.webp"
     }
 },
 {
     "pk": 96,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-SMO-EU-0001",
         "name": "Super Mario Odyssey",
         "description": " ",
         "genre": "n/a",
@@ -1917,14 +1917,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_mario_odyssey.webp"
+        "image": "nintendo_img/switch_mario_odyssey.webp"
     }
 },
 {
     "pk": 97,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-MPS-EU-0001",
         "name": "Mario Party Superstars",
         "description": " ",
         "genre": "n/a",
@@ -1937,14 +1937,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_mario_party.webp"
+        "image": "nintendo_img/switch_mario_party.webp"
     }
 },
 {
     "pk": 98,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-SMR-EU-0001",
         "name": "Super Mario RPG",
         "description": " ",
         "genre": "n/a",
@@ -1957,14 +1957,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_mario_rpg.webp"
+        "image": "nintendo_img/switch_mario_rpg.webp"
     }
 },
 {
     "pk": 99,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-MDK-EU-0001",
         "name": "Mario vs Donkey Kong",
         "description": " ",
         "genre": "n/a",
@@ -1977,14 +1977,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_mario_vs_donkey_kong.webp"
+        "image": "nintendo_img/switch_mario_vs_donkey_kong.webp"
     }
 },
 {
     "pk": 100,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-MBW-EU-0001",
         "name": "Super Mario Bros. Wonder",
         "description": " ",
         "genre": "n/a",
@@ -1997,14 +1997,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_mario_wonder.webp"
+        "image": "nintendo_img/switch_mario_wonder.webp"
     }
 },
 {
     "pk": 101,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-SMD-EU-0001",
         "name": "Sega Mega Drive Classics",
         "description": " ",
         "genre": "n/a",
@@ -2017,14 +2017,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_mega_drive_collection.webp"
+        "image": "nintendo_img/switch_mega_drive_collection.webp"
     }
 },
 {
     "pk": 102,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-MDR-EU-0001",
         "name": "Metroid Dread",
         "description": " ",
         "genre": "n/a",
@@ -2037,14 +2037,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_metroid_dread.webp"
+        "image": "nintendo_img/switch_metroid_dread.webp"
     }
 },
 {
     "pk": 103,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-MIN-EU-0001",
         "name": "Minecraft",
         "description": " ",
         "genre": "n/a",
@@ -2057,14 +2057,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_minecraft.webp"
+        "image": "nintendo_img/switch_minecraft.webp"
     }
 },
 {
     "pk": 104,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-TYD-EU-0001",
         "name": "Paper Mario The Thousand Year Door",
         "description": " ",
         "genre": "n/a",
@@ -2077,14 +2077,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_paper_mario.webp"
+        "image": "nintendo_img/switch_paper_mario.webp"
     }
 },
 {
     "pk": 105,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-PPS-EU-0001",
         "name": "Princess Peach Showtime!",
         "description": " ",
         "genre": "n/a",
@@ -2097,19 +2097,19 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_peach_showtime.webp"
+        "image": "nintendo_img/switch_peach_showtime.webp"
     }
 },
 {
     "pk": 106,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
-        "name": "Pikmin",
+        "sku": "NSW-PIK-EU-0001",
+        "name": "Pikmin 1 & Pikmin 2 Bundle",
         "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
-        "required_storage": "n/a",
+        "required_storage": "2.1GB",
         "colour": "n/a",
         "price": 49.99,
         "age_rating": "n/a",
@@ -2117,14 +2117,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pikmin.webp"
+        "image": "nintendo_img/switch_pikmin.webp"
     }
 },
 {
     "pk": 107,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-PK3-EU-0001",
         "name": "Pikmin 3 Deluxe",
         "description": " ",
         "genre": "n/a",
@@ -2137,14 +2137,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pikmin_3.webp"
+        "image": "nintendo_img/switch_pikmin_3.webp"
     }
 },
 {
     "pk": 108,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-PK4-EU-0001",
         "name": "Pikmin 4",
         "description": " ",
         "genre": "n/a",
@@ -2157,14 +2157,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pikmin_4.webp"
+        "image": "nintendo_img/switch_pikmin_4.webp"
     }
 },
 {
     "pk": 109,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-PLA-EU-0001",
         "name": "Pokemon Legends Arceus",
         "description": " ",
         "genre": "n/a",
@@ -2177,14 +2177,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pokemon_arceus.webp"
+        "image": "nintendo_img/switch_pokemon_arceus.webp"
     }
 },
 {
     "pk": 110,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-LGE-EU-0001",
         "name": "Pokemon Let's Go Eevee",
         "description": " ",
         "genre": "n/a",
@@ -2197,14 +2197,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pokemon_eevee.webp"
+        "image": "nintendo_img/switch_pokemon_eevee.webp"
     }
 },
 {
     "pk": 111,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-LGP-EU-0001",
         "name": "Pokemon Let's Go Pikachu",
         "description": " ",
         "genre": "n/a",
@@ -2217,15 +2217,15 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pokemon_pikachu.webp"
+        "image": "nintendo_img/switch_pokemon_pikachu.webp"
     }
 },
 {
     "pk": 112,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
-        "name": "Pokemon Diamond",
+        "sku": "NSW-DIA-EU-0001",
+        "name": "Pokemon Brilliant Diamond",
         "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
@@ -2237,15 +2237,15 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pokemon_diamond.webp"
+        "image": "nintendo_img/switch_pokemon_diamond.webp"
     }
 },
 {
     "pk": 113,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
-        "name": "Pokemon Pearl",
+        "sku": "NSW-PEA-EU-0001",
+        "name": "Pokemon Shining Pearl",
         "description": " ",
         "genre": "n/a",
         "internal_storage": "n/a",
@@ -2257,14 +2257,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pokemon_pearl.webp"
+        "image": "nintendo_img/switch_pokemon_pearl.webp"
     }
 },
 {
     "pk": 114,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-SWO-EU-0001",
         "name": "Pokemon Sword",
         "description": " ",
         "genre": "n/a",
@@ -2277,14 +2277,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pokemon_sword.webp"
+        "image": "nintendo_img/switch_pokemon_sword.webp"
     }
 },
 {
     "pk": 115,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-SHI-EU-0001",
         "name": "Pokemon Shield",
         "description": " ",
         "genre": "n/a",
@@ -2297,14 +2297,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pokemon_shield.webp"
+        "image": "nintendo_img/switch_pokemon_shield.webp"
     }
 },
 {
     "pk": 116,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-SCA-EU-0001",
         "name": "Pokemon Scarlet",
         "description": " ",
         "genre": "n/a",
@@ -2317,14 +2317,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pokemon_scarlet.webp"
+        "image": "nintendo_img/switch_pokemon_scarlet.webp"
     }
 },
 {
     "pk": 117,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-VIO-EU-0001",
         "name": "Pokemon Violet",
         "description": " ",
         "genre": "n/a",
@@ -2337,14 +2337,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pokmeon_violet.webp"
+        "image": "nintendo_img/switch_pokmeon_violet.webp"
     }
 },
 {
     "pk": 118,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-PMD-EU-0001",
         "name": "Pokemon Mystery Dungeon",
         "description": " ",
         "genre": "n/a",
@@ -2357,14 +2357,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_pokemon_mystery_dungeon.webp"
+        "image": "nintendo_img/switch_pokemon_mystery_dungeon.webp"
     }
 },
 {
     "pk": 119,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-DPR-EU-0001",
         "name": "Detective Pikachu Returns",
         "description": " ",
         "genre": "n/a",
@@ -2377,14 +2377,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_detective_pikachu.webp"
+        "image": "nintendo_img/switch_detective_pikachu.webp"
     }
 },
 {
     "pk": 120,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-POP-EU-0001",
         "name": "Prince of Persia: The Lost Crown",
         "description": " ",
         "genre": "n/a",
@@ -2397,14 +2397,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_prince_of_persia.webp"
+        "image": "nintendo_img/switch_prince_of_persia.webp"
     }
 },
 {
     "pk": 121,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-RDR-EU-0001",
         "name": "Red Dead Redemption",
         "description": " ",
         "genre": "n/a",
@@ -2417,14 +2417,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_red_dead_redemption.webp"
+        "image": "nintendo_img/switch_red_dead_redemption.webp"
     }
 },
 {
     "pk": 122,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-SSB-EU-0001",
         "name": "Super Smash Bros: Ultimate",
         "description": " ",
         "genre": "n/a",
@@ -2437,14 +2437,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_smash_bros.webp"
+        "image": "nintendo_img/switch_smash_bros.webp"
     }
 },
 {
     "pk": 123,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-SOR-EU-0001",
         "name": "Sonic Origins",
         "description": " ",
         "genre": "n/a",
@@ -2457,14 +2457,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_sonic_origins.webp"
+        "image": "nintendo_img/switch_sonic_origins.webp"
     }
 },
 {
     "pk": 124,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-SDV-EU-0001",
         "name": "Stardew Valley",
         "description": " ",
         "genre": "Farming, Adventure, Action, Role Playing Game",
@@ -2477,14 +2477,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_stardew_valley.webp"
+        "image": "nintendo_img/switch_stardew_valley.webp"
     }
 },
 {
     "pk": 125,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-ITT-EU-0001",
         "name": "It Takes Two",
         "description": " ",
         "genre": "n/a",
@@ -2497,14 +2497,14 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_takes_two.webp"
+        "image": "nintendo_img/switch_takes_two.webp"
     }
 },
 {
     "pk": 126,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-TRA-EU-0001",
         "name": "Tomb Raider I-III Remastered",
         "description": " ",
         "genre": "n/a",
@@ -2517,47 +2517,47 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_tomb_raider.webp"
+        "image": "nintendo_img/switch_tomb_raider.webp"
     }
 },
 {
     "pk": 127,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-BOW-EU-0001",
         "name": "The Legend of Zelda: Breathe of the Wild",
-        "description": " ",
-        "genre": "n/a",
+        "description": "Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure.",
+        "genre": "Adventure, Action, Role Playing",
         "internal_storage": "n/a",
-        "required_storage": "n/a",
+        "required_storage": "14.4GB",
         "colour": "n/a",
-        "price": 49.99,
-        "age_rating": "n/a",
+        "price": 44.99,
+        "age_rating": "12+",
         "players": "1",
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_zelda_botw.webp"
+        "image": "nintendo_img/switch_zelda_botw.webp"
     }
 },
 {
     "pk": 128,
     "model": "products.product",
     "fields": {
-        "sku": "nin",
+        "sku": "NSW-TOK-EU-0001",
         "name": "The Legend of Zelda: Tears of the Kingdom",
-        "description": " ",
-        "genre": "n/a",
+        "description": "An epic adventure awaits in the Legend of Zelda: Tears of the Kingdom game, only on the Nintendo Switch system. In this sequel to the Legend of Zelda: Breath of the Wild game, you’ll decide your own path through the sprawling landscapes of Hyrule and the mysterious islands floating in the vast skies above. Can you harness the power of Link’s new abilities to fight back against the malevolent forces that threaten the kingdom?",
+        "genre": "Adventure, Action, Role Playing",
         "internal_storage": "n/a",
-        "required_storage": "n/a",
+        "required_storage": "16.3GB",
         "colour": "n/a",
-        "price": 49.99,
-        "age_rating": "n/a",
+        "price": 44.99,
+        "age_rating": "12+",
         "players": "1",
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "switch_zelda_totk.webp"
+        "image": "nintendo_img/switch_zelda_totk.webp"
     }
 }
 ]
