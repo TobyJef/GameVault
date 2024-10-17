@@ -364,7 +364,7 @@
     "pk": 19,
     "model": "products.product",
     "fields": {
-        "sku": "XBX-CCB-EU-0009",
+        "sku": "XBA-CCB-EU-0009",
         "name": "Xbox Wireless Controller – Carbon Black",
         "description": "Experience the updated design of the Xbox Wireless Controller in Carbon Black, which, with its sculpted surfaces and refined geometry, makes gaming more comfortable.",
         "genre": "n/a",
@@ -384,7 +384,7 @@
     "pk": 20,
     "model": "products.product",
     "fields": {
-        "sku": "XBX-CSB-EU-0009",
+        "sku": "XBA-CSB-EU-0009",
         "name": "Xbox Wireless Controller – Shock Blue",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Shock Blue, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -404,7 +404,7 @@
     "pk": 21,
     "model": "products.product",
     "fields": {
-        "sku": "XBX-CVG-EU-0009",
+        "sku": "XBA-CVG-EU-0009",
         "name": "Xbox Wireless Controller – Velocity Green",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Velocity Green, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -424,7 +424,7 @@
     "pk": 22,
     "model": "products.product",
     "fields": {
-        "sku": "XBX-CDP-EU-0009",
+        "sku": "XBA-CDP-EU-0009",
         "name": "Xbox Wireless Controller – Deep Pink",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Deep Pink, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -444,7 +444,7 @@
     "pk": 23,
     "model": "products.product",
     "fields": {
-        "sku": "XBX-CAP-EU-0009",
+        "sku": "XBA-CAP-EU-0009",
         "name": "Xbox Wireless Controller – Astral Purple",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Astral Purple, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -464,7 +464,7 @@
     "pk": 24,
     "model": "products.product",
     "fields": {
-        "sku": "XBX-CPR-EU-0009",
+        "sku": "XBA-CPR-EU-0009",
         "name": "Xbox Wireless Controller – Pulse Red",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Pulse Red, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -484,7 +484,7 @@
     "pk": 25,
     "model": "products.product",
     "fields": {
-        "sku": "XBX-CRW-EU-0009",
+        "sku": "XBA-CRW-EU-0009",
         "name": "Xbox Wireless Controller – Robot White",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Robot White, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -504,7 +504,7 @@
     "pk": 26,
     "model": "products.product",
     "fields": {
-        "sku": "XBX-CEV-EU-0009",
+        "sku": "XBA-CEV-EU-0009",
         "name": "Xbox Wireless Controller – Electric Volt",
         "description": "Experience the modernised design of the Xbox Wireless Controller – Electric Volt, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay.",
         "genre": "n/a",
@@ -1297,7 +1297,7 @@
         "category": 2,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "playstation_img/ps_jedi_survivor"
+        "image": "playstation_img/ps_jedi_survivor.webp"
     }
 },
 {
@@ -1677,7 +1677,7 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_img/witch_batman.webp"
+        "image": "nintendo_img/switch_batman.webp"
     }
 },
 {
@@ -2337,7 +2337,7 @@
         "category": 1,
         "star_rating": 4.8,
         "image_url": "https://m.media-amazon.com/images/I/81PQgiliiJL._AC_SL1500_.jpg",
-        "image": "nintendo_img/switch_pokmeon_violet.webp"
+        "image": "nintendo_img/switch_pokemon_violet.webp"
     }
 },
 {
