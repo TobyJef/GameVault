@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background: url('/media/gv_placeholder.webp') no-repeat center center fixed;
+    background: url('/media/gamevault_img/gv_placeholder.webp') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
