@@ -32,7 +32,7 @@ SECRET_KEY = 'django-insecure-^s7=368#hk00m40)v5nkh160l)zwflkarmtyv06lfmvf049_(u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True #Set to False on Deployment
 
-ALLOWED_HOSTS = ['8000-tobyjef-gamevault-a7dkkiiuyd5.ws.codeinstitute-ide.net', 'localhost']
+ALLOWED_HOSTS = ['8000-tobyjef-gamevault-a7dkkiiuyd5.ws.codeinstitute-ide.net', 'gamevault.herokuapp.com', 'localhost']
 
 
 # Application definition
@@ -127,13 +127,17 @@ WSGI_APPLICATION = 'gamevault.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+if 'DATABASE_URL' in os.environ:
+    DATABASES = {
+        'default': dj_database_url.parse(os.environ.get('DATABASE_URL'))
     }
-}
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': BASE_DIR / 'db.sqlite3',
+        }
+    }
 
 
 # Password validation

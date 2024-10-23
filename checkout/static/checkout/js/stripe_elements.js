@@ -31,14 +31,13 @@ var style = {
 var card = elements.create('card', {style: style});
 card.mount('#card-element');
 
-
 // Handle realtime validation errors on the card element //
-card.addEventListener('change', function (event){
+card.addEventListener('change', function (event) {
     var errorDiv = document.getElementById('card-errors');
     if (event.error) {
         var html = `
             <span class="icon" role="alert">
-                <i class="fas fa-time"></i>
+                <i class="fas fa-times"></i>
             </span>
             <span>${event.error.message}</span>
         `;
@@ -73,29 +72,29 @@ form.addEventListener('submit', function(ev) {
             payment_method: {
                 card: card,
                 billing_details: {
-                    first_name:$.trim(form.first_name.value),
-                    last_name:$.trim(form.last_name.value),
-                    phone:$.trim(form.contact_number.value),
-                    email:$.trim(form.email.value),
+                    first_name: $.trim(form.first_name.value),
+                    last_name: $.trim(form.last_name.value),
+                    phone: $.trim(form.contact_number.value),
+                    email: $.trim(form.email.value),
                     address: {
-                        line1:$.trim(form.street_address_1.value),
-                        line2:$.trim(form.street_address_2.value),
-                        city:$.trim(form.town_or_city.value),
-                        state:$.trim(form.county_or_state.value),
-                        country:$.trim(form.country.value),
+                        line1: $.trim(form.street_address_1.value),
+                        line2: $.trim(form.street_address_2.value),
+                        city: $.trim(form.town_or_city.value),
+                        state: $.trim(form.county_or_state.value),
+                        country: $.trim(form.country.value),
                     }
                 }
             },
             shipping: {
-                name:$.trim(form.first_name.value, form.last_name.value),
-                phone:$.trim(form.contact_number.value),
+                name: $.trim(form.first_name.value, form.last_name.value),
+                phone: $.trim(form.contact_number.value),
                 address: {
-                    line1:$.trim(form.street_address_1.value),
-                    line2:$.trim(form.street_address_2.value),
-                    city:$.trim(form.town_or_city.value),
-                    postal_code:$.trim(form.post_zipcode.value),
-                    state:$.trim(form.county_or_state.value),
-                    country:$.trim(form.country.value),
+                    line1: $.trim(form.street_address_1.value),
+                    line2: $.trim(form.street_address_2.value),
+                    city: $.trim(form.town_or_city.value),
+                    postal_code: $.trim(form.post_zipcode.value),
+                    state: $.trim(form.county_or_state.value),
+                    country: $.trim(form.country.value),
                 }
             },
         }).then(function(result) {
