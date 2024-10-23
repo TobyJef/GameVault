@@ -11,6 +11,8 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
 import os
+import dj_database_url
+
 
 CSRF_TRUSTED_ORIGINS = ['8000-tobyjef-gamevault-a7dkkiiuyd5.ws.codeinstitute-ide.net']
 
@@ -124,6 +126,7 @@ WSGI_APPLICATION = 'gamevault.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
+
 
 DATABASES = {
     'default': {
