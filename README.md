@@ -5,7 +5,7 @@ Welcome to GameVault. Our aim is to provide a quality website and reliable shopp
 
 Visitors to the GameVault website can search and browse our range of products. Or for those that know what they want, filter their product searches or jump straight to their preferred categories from the navbar. The navbar main categories are based on our supported console brand i.e Playstation, Nintendo etc, our shoppers are looking to purchase for, then further expanded into sub categories including consoles, game genres and accessories. Shoppers can add their purchases to the basket which relays a live cost total so they can keep track of their spending before checking out and purchasing their desired items. GameVault also provides our site browsers and customers the opportunity to sign up to our mailing list so they can recieve future communications from us regarding new game and console releases and sale events.
 
-The live link to the GameVault website can be found here: *website link here*
+The live link to the GameVault website can be found here: [GameVault](https://gamevault-d49b1965bdcc.herokuapp.com/)
 
 - *Home page screen shot here*
 
